@@ -1,6 +1,7 @@
 """Record today's episode, prune old ones, and render the podcast feed + web page into _site/.
 
-Env: EP_DATE (YYYY-MM-DD), EP_TAG (release tag), MP3_URL, SITE_URL.
+Env: EP_DATE (YYYY-MM-DD), EP_TAG (release tag), MP3_FILE, SITE_URL.
+MP3s are stored as release assets and served from Pages under audio/ (see daily.yml).
 Writes out/prune_tags.txt with release tags of episodes that dropped out of the window.
 data/deals.json is the permanent deal tracker (never pruned).
 """
@@ -40,7 +41,7 @@ def record_episode(date: str) -> None:
         "tag": os.environ["EP_TAG"],
         "title": ep["title"],
         "summary": ep["summary"],
-        "url": os.environ["MP3_URL"],
+        "file": os.environ["MP3_FILE"],
         "bytes": mp3.stat().st_size,
         "duration_s": round(MP3(mp3).info.length),
         "published": format_datetime(published),
@@ -102,13 +103,14 @@ def render(site_url: str) -> None:
     e = html.escape
     items = []
     for ep in episodes:
+        ep["url"] = f"{site_url}/audio/{ep['file']}"
         d = ep["duration_s"]
         items.append(f"""
     <item>
       <title>{e(ep['date'])} · {e(ep['title'])}</title>
       <description><![CDATA[{notes_html(ep)}]]></description>
       <enclosure url="{e(ep['url'])}" length="{ep['bytes']}" type="audio/mpeg"/>
-      <guid isPermaLink="false">{e(ep['tag'])}</guid>
+      <guid isPermaLink="false">{e(ep['url'])}</guid>
       <pubDate>{ep['published']}</pubDate>
       <itunes:duration>{d // 60}:{d % 60:02d}</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
