@@ -1,0 +1,17 @@
+{
+  "show_title": "FDI Daily",
+  "show_description": "A private daily audio briefing on foreign direct investment screening, national-security investment control and the global news around it.",
+  "author": "FDI Daily",
+  "language": "en-gb",
+  "voice": "en-GB-RyanNeural",
+  "rate": "+0%",
+  "max_words": 1400,
+  "keep_episodes_days": 30,
+  "keep_coverage_days": 120,
+  "pronunciations": {
+    "CFIUS": "Siffy-us",
+    "FIRRMA": "Firma",
+    "FIRB": "Ferb",
+    "FEFTA": "Fefta"
+  }
+}

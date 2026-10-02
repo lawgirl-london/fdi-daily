@@ -1,0 +1,105 @@
+name: Daily episode
+
+on:
+  schedule:
+    - cron: "17 5 * * 1-5"   # weekdays 05:17 UTC = 06:17 London (BST) / 05:17 (GMT)
+  workflow_dispatch:          # "Run workflow" button for manual runs
+
+permissions:
+  contents: write   # commit state, create releases
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-episode
+  cancel-in-progress: false
+
+jobs:
+  episode:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install tools
+        run: |
+          pip install -q edge-tts mutagen
+          npm install -g @anthropic-ai/claude-code
+
+      - name: Set episode date
+        run: |
+          echo "EP_DATE=$(TZ=Europe/London date +%F)" >> "$GITHUB_ENV"
+          echo "EP_TAG=ep-$(TZ=Europe/London date +%F)" >> "$GITHUB_ENV"
+          echo "TODAY=$(TZ=Europe/London date '+%A, %-d %B %Y')" >> "$GITHUB_ENV"
+
+      - name: Research and write script (Claude)
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          mkdir -p out
+          claude -p "Today is $TODAY. Follow the instructions in prompts/episode.md exactly." \
+            --allowedTools "WebSearch WebFetch Read Write Edit Glob Grep" \
+            --max-turns 120 \
+            --strict-mcp-config
+          python - <<'EOF'
+          import json, os
+          ep = json.load(open("out/episode.json"))
+          skip = bool(ep.get("skip"))
+          if skip:
+              print("Claude found nothing new; skipping today.")
+          else:
+              assert ep["title"] and ep["script"] and ep["items"], "episode.json incomplete"
+          with open(os.environ["GITHUB_ENV"], "a") as f:
+              f.write(f"SKIP={str(skip).lower()}\n")
+          EOF
+
+      - name: Text to speech
+        if: env.SKIP == 'false'
+        run: python scripts/tts.py
+
+      - name: Upload audio as release asset
+        if: env.SKIP == 'false'
+        run: |
+          FILE="fdi-daily-$EP_DATE.mp3"
+          cp out/episode.mp3 "out/$FILE"
+          gh release view "$EP_TAG" >/dev/null 2>&1 || \
+            gh release create "$EP_TAG" --title "FDI Daily $EP_DATE" --notes "$(jq -r .summary out/episode.json)"
+          gh release upload "$EP_TAG" "out/$FILE" --clobber
+          echo "MP3_URL=https://github.com/$GITHUB_REPOSITORY/releases/download/$EP_TAG/$FILE" >> "$GITHUB_ENV"
+
+      - name: Update feed and history
+        if: env.SKIP == 'false'
+        run: |
+          OWNER=$(echo "${GITHUB_REPOSITORY%/*}" | tr '[:upper:]' '[:lower:]')
+          SITE_URL="https://$OWNER.github.io/${GITHUB_REPOSITORY#*/}" python scripts/publish.py
+          while read -r tag; do
+            [ -n "$tag" ] && gh release delete "$tag" --yes --cleanup-tag || true
+          done < out/prune_tags.txt
+
+      - name: Commit history
+        if: env.SKIP == 'false'
+        run: |
+          git config user.name "fdi-daily-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Episode $EP_DATE" || echo "Nothing to commit"
+          git push
+
+      - uses: actions/configure-pages@v5
+        if: env.SKIP == 'false'
+      - uses: actions/upload-pages-artifact@v3
+        if: env.SKIP == 'false'
+        with:
+          path: _site
+      - id: deploy
+        if: env.SKIP == 'false'
+        uses: actions/deploy-pages@v4

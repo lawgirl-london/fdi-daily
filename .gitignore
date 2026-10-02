@@ -1,0 +1,6 @@
+out/
+_site/
+voice-samples/
+__pycache__/
+.venv/
+.DS_Store

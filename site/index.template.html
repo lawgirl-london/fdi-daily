@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{TITLE}}</title>
+<link rel="alternate" type="application/rss+xml" href="{{FEED_URL}}">
+<link rel="apple-touch-icon" href="cover.png">
+<style>
+  :root { --bg: #f7f5f0; --fg: #1d2330; --muted: #5d6576; --accent: #1f4e79; --card: #fff; --line: #e3dfd6; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #14171d; --fg: #e8e6e1; --muted: #9aa1ae; --accent: #8db8e6; --card: #1c2028; --line: #2c313b; }
+  }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.5 -apple-system, system-ui, sans-serif; }
+  main { max-width: 680px; margin: 0 auto; padding: 24px 16px 64px; }
+  h1 { font-size: 1.6rem; margin: 0 0 4px; }
+  .sub { color: var(--muted); margin: 0 0 20px; }
+  .subscribe { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; margin-bottom: 28px; }
+  .subscribe code { display: block; word-break: break-all; margin: 8px 0; color: var(--accent); }
+  .subscribe ol { margin: 6px 0 0; padding-left: 20px; color: var(--muted); }
+  article { border-top: 1px solid var(--line); padding: 18px 0; }
+  h2 { font-size: 1.05rem; margin: 0 0 10px; }
+  audio { width: 100%; }
+  ul { padding-left: 20px; }
+  li { margin: 4px 0; }
+  a { color: var(--accent); }
+</style>
+</head>
+<body>
+<main>
+  <h1>{{TITLE}}</h1>
+  <p class="sub">Daily FDI screening briefing · weekdays around 6am London time · <a href="deals.html">Deal Tracker →</a></p>
+  <div class="subscribe">
+    <b>Listen in Apple Podcasts</b>
+    <code>{{FEED_URL}}</code>
+    <ol>
+      <li>Copy the link above.</li>
+      <li>Open Podcasts → Library → ⋯ (top right) → Follow a Show by URL.</li>
+      <li>Paste and tap Follow.</li>
+    </ol>
+  </div>
+  {{EPISODES}}
+</main>
+</body>
+</html>
