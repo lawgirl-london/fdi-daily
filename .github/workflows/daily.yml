@@ -3,6 +3,7 @@ name: Daily episode
 on:
   schedule:
     - cron: "17 5 * * 1-5"   # weekdays 05:17 UTC = 06:17 London (BST) / 05:17 (GMT)
+    - cron: "17 8 * * 1-5"   # fallback, e.g. if the Claude usage limit blocked the first run
   workflow_dispatch:          # "Run workflow" button for manual runs
 
 permissions:
@@ -24,24 +25,36 @@ jobs:
     env:
       GH_TOKEN: ${{ github.token }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - name: Already published today?
+        run: |
+          TAG="ep-$(TZ=Europe/London date +%F)"
+          if [ "${{ github.event_name }}" = "schedule" ] && gh release view "$TAG" -R "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            echo "Episode $TAG already exists; nothing to do."
+            echo "DONE=true" >> "$GITHUB_ENV"
+          fi
+
+      - uses: actions/setup-python@v6
+        if: env.DONE != 'true'
         with:
           python-version: "3.12"
 
       - name: Install tools
+        if: env.DONE != 'true'
         run: |
           pip install -q edge-tts mutagen
           npm install -g @anthropic-ai/claude-code
 
       - name: Set episode date
+        if: env.DONE != 'true'
         run: |
           echo "EP_DATE=$(TZ=Europe/London date +%F)" >> "$GITHUB_ENV"
           echo "EP_TAG=ep-$(TZ=Europe/London date +%F)" >> "$GITHUB_ENV"
           echo "TODAY=$(TZ=Europe/London date '+%A, %-d %B %Y')" >> "$GITHUB_ENV"
 
       - name: Research and write script (Claude)
+        if: env.DONE != 'true'
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: |
