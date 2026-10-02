@@ -1,1 +1,78 @@
-[]
+[
+  {
+    "story_key": "de-cosco-zippel-investment-review",
+    "first_reported": "2026-10-02",
+    "updated": "2026-10-02",
+    "jurisdiction": "DE",
+    "headline": "Germany intends to prohibit Cosco's 80 per cent stake in Zippel",
+    "acquirer": "China COSCO Shipping",
+    "acquirer_country": "CN",
+    "target": "Konrad Zippel Spedition (80 per cent stake)",
+    "target_country": "DE",
+    "sector": "Logistics / port hinterland container transport",
+    "authority": "Federal Ministry for Economic Affairs and Energy (BMWE)",
+    "outcome": "pending",
+    "detail": "Investment review under AWG/AWV; government reportedly intends to prohibit. Reported grounds: strategic dependencies usable as leverage in political upheaval; software systems and sensitive data; Bundeswehr/NATO logistics; transport infrastructure availability in crisis. Antitrust clearance February 2026. No formal decision as of 2 Oct 2026.",
+    "sources": [
+      "https://live.euronext.com/en/financial-news/germany-intends-block-sale-logistics-firm-chinas-cosco-newspaper-reports",
+      "https://hansa-online.de/haefen/cosco-einstieg-bei-zippel-spedition-zieht-der-bund-nun-doch-die-reissleine/310697/",
+      "https://bundesregierung.de/breg-de/aktuelles/regierungspressekonferenz-vom-30-september-2026-2454960",
+      "https://www.worldcargonews.com/news/2026/09/germany-to-block-coscos-planned-acquisition-of-zippel-report-says/"
+    ]
+  },
+  {
+    "story_key": "it-golden-power-pirelli-abet-hts-defence",
+    "first_reported": "2026-10-02",
+    "updated": "2026-10-02",
+    "jurisdiction": "IT",
+    "headline": "Italy imposes golden power prescriptions on Pirelli–ABET HTS defence agreement",
+    "acquirer": "Pirelli & C. S.p.A. (co-development agreement with ABET High Tech Solutions S.r.l.)",
+    "acquirer_country": "IT",
+    "target": "ABET High Tech Solutions S.r.l. / Pirelli defence activities (cooperation agreement, not an acquisition)",
+    "target_country": "IT",
+    "sector": "Defence – remote-controlled electric ground vehicles",
+    "authority": "Presidency of the Council of Ministers (golden power, DL 21/2012)",
+    "outcome": "conditions",
+    "detail": "Techno-organisational prescriptions to safeguard industrial property, know-how, products and strategic data and ensure continuity and standards of R&D; detailed terms not disclosed.",
+    "sources": [
+      "https://press.pirelli.com/golden-power-decree-adopted-to-protect-the-activities-carried-out-by-pirelli-abet-hts-in-the-dedence-sector/",
+      "https://www.ansa.it/sito/notizie/economia/2026/09/29/pirelli-golden-power-sullaccordo-con-abet-htsrilevanza-strategica-per-la-difesa_c9a0f2f4-6a90-45f7-9424-3e7936c67ab6.html"
+    ]
+  },
+  {
+    "story_key": "us-cfius-bitfufu-uni-titan-nsa",
+    "first_reported": "2026-10-02",
+    "updated": "2026-10-02",
+    "jurisdiction": "US",
+    "headline": "CFIUS clears BitFuFu's stake in Oklahoma bitcoin miner under national security agreement",
+    "acquirer": "BitFuFu Inc.",
+    "acquirer_country": "SG",
+    "target": "Uni-Titan LLC (51 per cent)",
+    "target_country": "US",
+    "sector": "Crypto mining / energy-intensive computing",
+    "authority": "CFIUS (DHS and Treasury as monitoring agencies)",
+    "outcome": "conditions",
+    "detail": "National security agreement: use restricted to specified crypto mining operations; limits on certain advanced computing hardware; government oversight of improvements and equipment changes; ongoing compliance framework.",
+    "sources": [
+      "https://www.tipranks.com/news/company-announcements/bitfufu-wins-cfius-clearance-for-oklahoma-bitcoin-mining-acquisition-under-security-agreement"
+    ]
+  },
+  {
+    "story_key": "ca-ica-china-union-holdings-argentum-arizaro",
+    "first_reported": "2026-10-02",
+    "updated": "2026-10-02",
+    "jurisdiction": "CA",
+    "headline": "Canada orders formal ICA review of China Union Holdings' Arizaro lithium deal",
+    "acquirer": "China Union Holdings Ltd.",
+    "acquirer_country": "CN",
+    "target": "Argentum Lithium S.A. (Arizaro lithium project; linked to Lithium Chile Inc.)",
+    "target_country": "AR",
+    "sector": "Critical minerals – lithium",
+    "authority": "Innovation, Science and Economic Development Canada (Investment Canada Act)",
+    "outcome": "pending",
+    "detail": "Formal review ordered under section 25 of the Investment Canada Act; grounds not disclosed; acquirer reviewing the order.",
+    "sources": [
+      "https://www.theglobeandmail.com/investing/markets/markets-news/TheNewswire.com/4855644/government-of-canada-advises-formal-review-of-arizaro-transaction/"
+    ]
+  }
+]
