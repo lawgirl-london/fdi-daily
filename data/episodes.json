@@ -129,5 +129,42 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-05",
+    "tag": "ep-2026-10-05",
+    "title": "EU sets China mid-October trade deadline; UK weighs Chinese EV tariffs",
+    "summary": "A quiet day with no new screening decisions: the EU's mid-October deadline to China, reported UK tariffs on Chinese EVs, and two dates to watch.",
+    "file": "fdi-daily-2026-10-05.mp3",
+    "bytes": 744192,
+    "duration_s": 124,
+    "published": "Mon, 05 Oct 2026 05:44:08 +0000",
+    "items": [
+      {
+        "headline": "EU gives China mid-October deadline on trade imbalance",
+        "jurisdiction": "EU",
+        "outcome": null,
+        "sources": [
+          "https://www.scmp.com/news/china/diplomacy/article/3369303/eu-weighs-sweeping-new-trade-powers-against-china-make-or-break-october",
+          "https://asiatimes.com/2026/10/a-rickety-europe-tries-to-stand-up-to-china"
+        ]
+      },
+      {
+        "headline": "UK reportedly preparing tariffs on Chinese EVs",
+        "jurisdiction": "UK",
+        "outcome": null,
+        "sources": [
+          "https://investing.com/news/stock-market-news/uk-set-to-impose-chinese-ev-levies-amid-eu-trade-pressure--report-4930962"
+        ]
+      },
+      {
+        "headline": "China's rare earth export control suspension expires 10 November",
+        "jurisdiction": "CN",
+        "outcome": null,
+        "sources": [
+          "https://www.cirs-group.com/en/chemicals/china-temporarily-suspends-export-controls-on-key-raw-materials-including-rare-earths-lithium-batteries-and-diamond"
+        ]
+      }
+    ]
   }
 ]
