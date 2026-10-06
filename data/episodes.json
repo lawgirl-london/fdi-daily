@@ -166,5 +166,36 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-06",
+    "tag": "ep-2026-10-06",
+    "title": "Hindalco drops AluChem after CFIUS delays; Schneider's PTC deal heads to CFIUS",
+    "summary": "A quiet day: Hindalco abandons its AluChem acquisition after a year-long CFIUS review, and Schneider Electric's 22.6 billion dollar PTC deal expects CFIUS review.",
+    "file": "fdi-daily-2026-10-06.mp3",
+    "bytes": 679680,
+    "duration_s": 113,
+    "published": "Tue, 06 Oct 2026 05:36:03 +0000",
+    "items": [
+      {
+        "headline": "Hindalco terminates AluChem deal after year-long CFIUS review delays",
+        "jurisdiction": "US",
+        "outcome": "withdrawn",
+        "sources": [
+          "https://www.alcircle.com/news/hindalco-ends-125-million-aluchem-deal-after-prolonged-closing-delays-121418",
+          "https://www.business-standard.com/amp/world-news/what-is-cfius-the-us-national-security-panel-that-can-derail-foreign-deals-126100500322_1.html",
+          "https://www.tradingview.com/news/moodys:b4f8f32ff88ed:0-hindalco-terminates-125-million-us-alumina-deal-after-year-long-regulatory-delay/"
+        ]
+      },
+      {
+        "headline": "Schneider Electric to buy PTC for 22.6 billion dollars, expects CFIUS review",
+        "jurisdiction": "US",
+        "outcome": null,
+        "sources": [
+          "https://business-standard.com/world-news/schneider-electric-confirms-22-6-billion-deal-to-acquire-us-firm-ptc-126100501378_1.html",
+          "https://finance.yahoo.com/markets/stocks/articles/schneider-electric-acquire-ptc-22-115200874.html"
+        ]
+      }
+    ]
   }
 ]

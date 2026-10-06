@@ -229,5 +229,39 @@
       "https://www.cirs-group.com/en/chemicals/china-temporarily-suspends-export-controls-on-key-raw-materials-including-rare-earths-lithium-batteries-and-diamond"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-10-06",
+    "story_key": "us-cfius-hindalco-aluchem-terminated",
+    "headline": "Hindalco terminates AluChem deal after year-long CFIUS review delays",
+    "jurisdiction": "US",
+    "what_was_said": "Hindalco and AluChem jointly terminated the 125 million dollar equity purchase agreement, citing extended closing delays beyond either party's control. Business Standard links the delays to the CFIUS review, repeatedly paused by US government shutdowns; no CFIUS outcome reported.",
+    "sources": [
+      "https://www.alcircle.com/news/hindalco-ends-125-million-aluchem-deal-after-prolonged-closing-delays-121418",
+      "https://www.business-standard.com/amp/world-news/what-is-cfius-the-us-national-security-panel-that-can-derail-foreign-deals-126100500322_1.html",
+      "https://www.tradingview.com/news/moodys:b4f8f32ff88ed:0-hindalco-terminates-125-million-us-alumina-deal-after-year-long-regulatory-delay/"
+    ],
+    "deal": {
+      "acquirer": "Hindalco Industries (via Aditya Holdings LLC)",
+      "acquirer_country": "IN",
+      "target": "AluChem Companies Inc.",
+      "target_country": "US",
+      "sector": "Specialty alumina / advanced materials",
+      "authority": "CFIUS",
+      "outcome": "withdrawn",
+      "detail": "Parties cited extended closing delays beyond their control; press links these to a CFIUS review repeatedly paused by US government shutdowns. No CFIUS decision reported. Deal value 125 million dollars, announced June 2025."
+    }
+  },
+  {
+    "date": "2026-10-06",
+    "story_key": "us-schneider-ptc-acquisition-cfius",
+    "headline": "Schneider Electric to buy PTC for 22.6 billion dollars, expects CFIUS review",
+    "jurisdiction": "US",
+    "what_was_said": "Schneider confirmed an all-cash 22.6 billion dollar deal for PTC at 205 dollars a share, expects customary approvals including CFIUS but no major issues, closing targeted Q3 2027.",
+    "sources": [
+      "https://business-standard.com/world-news/schneider-electric-confirms-22-6-billion-deal-to-acquire-us-firm-ptc-126100501378_1.html",
+      "https://finance.yahoo.com/markets/stocks/articles/schneider-electric-acquire-ptc-22-115200874.html"
+    ],
+    "deal": null
   }
 ]

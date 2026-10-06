@@ -1,5 +1,25 @@
 [
   {
+    "story_key": "us-cfius-hindalco-aluchem-terminated",
+    "first_reported": "2026-10-06",
+    "updated": "2026-10-06",
+    "jurisdiction": "US",
+    "headline": "Hindalco terminates AluChem deal after year-long CFIUS review delays",
+    "acquirer": "Hindalco Industries (via Aditya Holdings LLC)",
+    "acquirer_country": "IN",
+    "target": "AluChem Companies Inc.",
+    "target_country": "US",
+    "sector": "Specialty alumina / advanced materials",
+    "authority": "CFIUS",
+    "outcome": "withdrawn",
+    "detail": "Parties cited extended closing delays beyond their control; press links these to a CFIUS review repeatedly paused by US government shutdowns. No CFIUS decision reported. Deal value 125 million dollars, announced June 2025.",
+    "sources": [
+      "https://www.alcircle.com/news/hindalco-ends-125-million-aluchem-deal-after-prolonged-closing-delays-121418",
+      "https://www.business-standard.com/amp/world-news/what-is-cfius-the-us-national-security-panel-that-can-derail-foreign-deals-126100500322_1.html",
+      "https://www.tradingview.com/news/moodys:b4f8f32ff88ed:0-hindalco-terminates-125-million-us-alumina-deal-after-year-long-regulatory-delay/"
+    ]
+  },
+  {
     "story_key": "de-cosco-zippel-investment-review",
     "first_reported": "2026-10-02",
     "updated": "2026-10-02",
