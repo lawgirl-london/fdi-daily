@@ -1,5 +1,28 @@
 [
   {
+    "story_key": "de-cosco-zippel-investment-review",
+    "first_reported": "2026-10-02",
+    "updated": "2026-10-08",
+    "jurisdiction": "DE",
+    "headline": "Germany prohibits Cosco's acquisition of Zippel",
+    "acquirer": "Cosco Shipping (via Goldlead Supply Chain Development (Europe))",
+    "acquirer_country": "CN",
+    "target": "Konrad Zippel Spedition (80 per cent stake)",
+    "target_country": "DE",
+    "sector": "Logistics / port-related",
+    "authority": "Federal Ministry for Economic Affairs and Energy; cabinet approval",
+    "outcome": "blocked",
+    "detail": "Cabinet approved prohibition on 7 Oct 2026 under AWG/AWV: acquisition would deepen dependencies and endanger supply-chain resilience of Germany and the EU. Formal prohibition notice still to be issued.",
+    "sources": [
+      "https://live.euronext.com/en/financial-news/germany-intends-block-sale-logistics-firm-chinas-cosco-newspaper-reports",
+      "https://hansa-online.de/haefen/cosco-einstieg-bei-zippel-spedition-zieht-der-bund-nun-doch-die-reissleine/310697/",
+      "https://bundesregierung.de/breg-de/aktuelles/regierungspressekonferenz-vom-30-september-2026-2454960",
+      "https://www.worldcargonews.com/news/2026/09/germany-to-block-coscos-planned-acquisition-of-zippel-report-says/",
+      "https://www.verkehrsrundschau.de/nachrichten/transport-logistik/bund-untersagt-zippel-mehrheitsverkauf-an-cosco-3914224",
+      "https://www.onvista.de/news/2026/10-07-bundesregierung-blockiert-verkauf-von-logistiker-zippel-an-chinesische-cosco-0-20-26561491"
+    ]
+  },
+  {
     "story_key": "us-cfius-hindalco-aluchem-terminated",
     "first_reported": "2026-10-06",
     "updated": "2026-10-06",
@@ -17,27 +40,6 @@
       "https://www.alcircle.com/news/hindalco-ends-125-million-aluchem-deal-after-prolonged-closing-delays-121418",
       "https://www.business-standard.com/amp/world-news/what-is-cfius-the-us-national-security-panel-that-can-derail-foreign-deals-126100500322_1.html",
       "https://www.tradingview.com/news/moodys:b4f8f32ff88ed:0-hindalco-terminates-125-million-us-alumina-deal-after-year-long-regulatory-delay/"
-    ]
-  },
-  {
-    "story_key": "de-cosco-zippel-investment-review",
-    "first_reported": "2026-10-02",
-    "updated": "2026-10-02",
-    "jurisdiction": "DE",
-    "headline": "Germany intends to prohibit Cosco's 80 per cent stake in Zippel",
-    "acquirer": "China COSCO Shipping",
-    "acquirer_country": "CN",
-    "target": "Konrad Zippel Spedition (80 per cent stake)",
-    "target_country": "DE",
-    "sector": "Logistics / port hinterland container transport",
-    "authority": "Federal Ministry for Economic Affairs and Energy (BMWE)",
-    "outcome": "pending",
-    "detail": "Investment review under AWG/AWV; government reportedly intends to prohibit. Reported grounds: strategic dependencies usable as leverage in political upheaval; software systems and sensitive data; Bundeswehr/NATO logistics; transport infrastructure availability in crisis. Antitrust clearance February 2026. No formal decision as of 2 Oct 2026.",
-    "sources": [
-      "https://live.euronext.com/en/financial-news/germany-intends-block-sale-logistics-firm-chinas-cosco-newspaper-reports",
-      "https://hansa-online.de/haefen/cosco-einstieg-bei-zippel-spedition-zieht-der-bund-nun-doch-die-reissleine/310697/",
-      "https://bundesregierung.de/breg-de/aktuelles/regierungspressekonferenz-vom-30-september-2026-2454960",
-      "https://www.worldcargonews.com/news/2026/09/germany-to-block-coscos-planned-acquisition-of-zippel-report-says/"
     ]
   },
   {

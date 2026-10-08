@@ -263,5 +263,37 @@
       "https://finance.yahoo.com/markets/stocks/articles/schneider-electric-acquire-ptc-22-115200874.html"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-10-08",
+    "story_key": "de-cosco-zippel-investment-review",
+    "headline": "Germany prohibits Cosco's acquisition of Zippel",
+    "jurisdiction": "DE",
+    "what_was_said": "On 7 Oct 2026 the federal cabinet approved prohibiting Cosco (via Goldlead Supply Chain Development Europe) from acquiring 80 per cent of Konrad Zippel Spedition under the AWG/AWV, citing deepened dependencies and supply-chain resilience; formal notice from the Economy Ministry to follow. Cartel Office had cleared it in February; eight prohibitions to date.",
+    "sources": [
+      "https://www.verkehrsrundschau.de/nachrichten/transport-logistik/bund-untersagt-zippel-mehrheitsverkauf-an-cosco-3914224",
+      "https://www.onvista.de/news/2026/10-07-bundesregierung-blockiert-verkauf-von-logistiker-zippel-an-chinesische-cosco-0-20-26561491"
+    ],
+    "deal": {
+      "acquirer": "Cosco Shipping (via Goldlead Supply Chain Development (Europe))",
+      "acquirer_country": "CN",
+      "target": "Konrad Zippel Spedition (80 per cent stake)",
+      "target_country": "DE",
+      "sector": "Logistics / port-related",
+      "authority": "Federal Ministry for Economic Affairs and Energy; cabinet approval",
+      "outcome": "blocked",
+      "detail": "Cabinet approved prohibition on 7 Oct 2026 under AWG/AWV: acquisition would deepen dependencies and endanger supply-chain resilience of Germany and the EU. Formal prohibition notice still to be issued."
+    }
+  },
+  {
+    "date": "2026-10-08",
+    "story_key": "eu-china-mid-october-trade-deadline",
+    "headline": "Šefčovič in Beijing on EU–China trade deadline",
+    "jurisdiction": "EU",
+    "what_was_said": "Šefčovič is in Beijing for two days of talks from 7 Oct 2026; Brussels wants product quotas and export curbs, Beijing rejected voluntary EV export restraints; Germany and France back a fast-reaction trade tool; EU leaders' summit expected next week.",
+    "sources": [
+      "https://www.euronews.com/2026/10/07/eu-trade-chief-heads-to-beijing-under-pressure-to-deliver-on-chinese-imports"
+    ],
+    "deal": null
   }
 ]

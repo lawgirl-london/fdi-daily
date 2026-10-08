@@ -197,5 +197,34 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-08",
+    "tag": "ep-2026-10-08",
+    "title": "Berlin blocks Cosco–Zippel; Šefčovič takes EU's China deadline to Beijing",
+    "summary": "Germany's cabinet formally prohibits Cosco's acquisition of Zippel, while the EU trade chief negotiates in Beijing ahead of the October deadline.",
+    "file": "fdi-daily-2026-10-08.mp3",
+    "bytes": 912096,
+    "duration_s": 152,
+    "published": "Thu, 08 Oct 2026 08:35:40 +0000",
+    "items": [
+      {
+        "headline": "Germany prohibits Cosco's acquisition of Zippel",
+        "jurisdiction": "DE",
+        "outcome": "blocked",
+        "sources": [
+          "https://www.verkehrsrundschau.de/nachrichten/transport-logistik/bund-untersagt-zippel-mehrheitsverkauf-an-cosco-3914224",
+          "https://www.onvista.de/news/2026/10-07-bundesregierung-blockiert-verkauf-von-logistiker-zippel-an-chinesische-cosco-0-20-26561491"
+        ]
+      },
+      {
+        "headline": "Šefčovič in Beijing on EU–China trade deadline",
+        "jurisdiction": "EU",
+        "outcome": null,
+        "sources": [
+          "https://www.euronews.com/2026/10/07/eu-trade-chief-heads-to-beijing-under-pressure-to-deliver-on-chinese-imports"
+        ]
+      }
+    ]
   }
 ]
