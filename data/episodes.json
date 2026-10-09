@@ -226,5 +226,51 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-09",
+    "tag": "ep-2026-10-09",
+    "title": "Parliament's China report urges tougher investment scrutiny; Mexico's screening bill advances",
+    "summary": "Parliament backs closer scrutiny of Chinese investment, Mexico's screening bill reaches the lower house, and the Beijing talks continue.",
+    "file": "fdi-daily-2026-10-09.mp3",
+    "bytes": 1210464,
+    "duration_s": 202,
+    "published": "Fri, 09 Oct 2026 05:40:10 +0000",
+    "items": [
+      {
+        "headline": "European Parliament adopts China report urging scrutiny of Chinese investment",
+        "jurisdiction": "EU",
+        "outcome": null,
+        "sources": [
+          "https://euperspectives.eu/2026/10/parliament-china-no-dumping-no-spying/"
+        ]
+      },
+      {
+        "headline": "Mexico screening bill reaches Chamber of Deputies; ICC Mexico seeks changes",
+        "jurisdiction": "MX",
+        "outcome": null,
+        "sources": [
+          "https://www.riotimesonline.com/mexico-investment-screening-bill-objections-2026/"
+        ]
+      },
+      {
+        "headline": "Šefčovič in Beijing; result due at European Council 15-16 October",
+        "jurisdiction": "EU",
+        "outcome": null,
+        "sources": [
+          "https://newseu.cgtn.com/news/2026-10-08/EU-trade-chief-ef-ovi-begins-two-day-Beijing-talks-trip-1R4OFXvoakM/p.html",
+          "https://euperspectives.eu/2026/10/parliament-china-no-dumping-no-spying/"
+        ]
+      },
+      {
+        "headline": "EU FDI Screening Regulation 2026/1386 applies from 17 January 2028",
+        "jurisdiction": "EU",
+        "outcome": null,
+        "sources": [
+          "https://www.cuatrecasas.com/en/global/competition-eu-law/art/new-regulation-eu-screening-foreign-investments",
+          "https://www.alston.com/en/insights/publications/2026/08/new-eu-fdi-screening-regulation"
+        ]
+      }
+    ]
   }
 ]
