@@ -43,7 +43,7 @@ jobs:
       - name: Install tools
         if: env.DONE != 'true'
         run: |
-          pip install -q edge-tts mutagen
+          pip install -q --upgrade edge-tts mutagen piper-tts
           npm install -g @anthropic-ai/claude-code
 
       - name: Set episode date
@@ -82,7 +82,9 @@ jobs:
 
       - name: Text to speech
         if: env.SKIP == 'false'
-        run: python scripts/tts.py
+        run: |
+          command -v ffmpeg >/dev/null || (sudo apt-get update -q && sudo apt-get install -y -q ffmpeg)
+          python scripts/tts.py
 
       - name: Upload audio as release asset
         if: env.SKIP == 'false'

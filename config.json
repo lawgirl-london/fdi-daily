@@ -4,6 +4,7 @@
   "author": "FDI Daily",
   "language": "en-gb",
   "voice": "en-GB-RyanNeural",
+  "fallback_voice": "en_GB-alan-medium",
   "rate": "+0%",
   "max_words": 1400,
   "keep_episodes_days": 30,
