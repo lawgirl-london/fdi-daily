@@ -272,5 +272,35 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-12",
+    "tag": "ep-2026-10-12",
+    "title": "EU–China Beijing talks yield 'shared understandings'; Boots sold to Wittington",
+    "summary": "A short Monday briefing on the outcome of the EU–China Beijing talks and the Wittington agreement to buy Boots.",
+    "file": "fdi-daily-2026-10-12.mp3",
+    "bytes": 1103456,
+    "duration_s": 138,
+    "published": "Mon, 12 Oct 2026 10:42:50 +0000",
+    "items": [
+      {
+        "headline": "EU–China Beijing talks end with 'shared understandings'",
+        "jurisdiction": "EU",
+        "outcome": null,
+        "sources": [
+          "https://www.lovguiden.dk/en/det-offentlige/europa-kommissionen-press-corner/2026-10-09-eu-og-kina-aftaler-hybridbiler-toldnedsaettelser-og-sjaeldne-jordarter",
+          "https://www.roic.ai/news/eu-and-china-reach-rare-earths-deal-as-trade-pressure-mounts-10-09-2026"
+        ]
+      },
+      {
+        "headline": "Wittington agrees to buy Boots for 8.9 billion dollars",
+        "jurisdiction": "UK",
+        "outcome": null,
+        "sources": [
+          "https://www.expressandstar.com/uk-news/boots-to-be-bought-by-canadas-weston-family-for-ps67bn-9273056",
+          "https://www.skadden.com/about/news-and-rankings/news/2026/10/wittington-investments-limited-to-acquire-the-boots-group"
+        ]
+      }
+    ]
   }
 ]
