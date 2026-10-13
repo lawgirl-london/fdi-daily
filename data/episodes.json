@@ -302,5 +302,34 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-13",
+    "tag": "ep-2026-10-13",
+    "title": "Treasury's first outbound investment penalty",
+    "summary": "A short briefing on the first civil penalty under the US Outbound Investment Security Program, and what it signals ahead of the COINS Act rules.",
+    "file": "fdi-daily-2026-10-13.mp3",
+    "bytes": 1355067,
+    "duration_s": 169,
+    "published": "Tue, 13 Oct 2026 08:40:25 +0000",
+    "items": [
+      {
+        "headline": "Treasury issues first civil penalty under Outbound Investment Security Program",
+        "jurisdiction": "US",
+        "outcome": null,
+        "sources": [
+          "https://www.wilmerhale.com/en/insights/client-alerts/20261009-treasury-issues-first-civil-penalty-under-outbound-investment-security-program"
+        ]
+      },
+      {
+        "headline": "COINS Act: Treasury regulations due by 13 March 2027",
+        "jurisdiction": "US",
+        "outcome": null,
+        "sources": [
+          "https://www.orrick.com/en/Insights/2025/12/COINS-Act-Codifies-and-Expands-Treasury-Oversight-of-US-Outbound-Investments",
+          "https://www.wilmerhale.com/en/insights/client-alerts/20261009-treasury-issues-first-civil-penalty-under-outbound-investment-security-program"
+        ]
+      }
+    ]
   }
 ]

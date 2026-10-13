@@ -365,5 +365,28 @@
       "https://www.skadden.com/about/news-and-rankings/news/2026/10/wittington-investments-limited-to-acquire-the-boots-group"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-10-13",
+    "story_key": "us-treasury-oisp-first-civil-penalty-amidi",
+    "headline": "Treasury issues first civil penalty under Outbound Investment Security Program",
+    "jurisdiction": "US",
+    "what_was_said": "Treasury announced on 7 October 2026 a 200,000 dollar penalty, issued in July, against Amidi LLC (parent of Plug and Play Tech Center) for failing to notify a roughly 92,000 dollar investment by its Chinese fund subsidiary in Noematrix (Shanghai Qiongche Intelligent Technology) on 19 April 2025. Detected through Treasury compliance monitoring.",
+    "sources": [
+      "https://www.wilmerhale.com/en/insights/client-alerts/20261009-treasury-issues-first-civil-penalty-under-outbound-investment-security-program"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-10-13",
+    "story_key": "us-coins-act-treasury-rules-deadline-2027-03-13",
+    "headline": "COINS Act: Treasury regulations due by 13 March 2027",
+    "jurisdiction": "US",
+    "what_was_said": "COINS Act, enacted 18 December 2025, expands the outbound regime; Treasury must issue implementing rules by 13 March 2027, and current rules apply until then.",
+    "sources": [
+      "https://www.orrick.com/en/Insights/2025/12/COINS-Act-Codifies-and-Expands-Treasury-Oversight-of-US-Outbound-Investments",
+      "https://www.wilmerhale.com/en/insights/client-alerts/20261009-treasury-issues-first-civil-penalty-under-outbound-investment-security-program"
+    ],
+    "deal": null
   }
 ]
