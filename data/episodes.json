@@ -331,5 +331,33 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-15",
+    "tag": "ep-2026-10-15",
+    "title": "EU FDI screening notifications jump 40 per cent; European Council turns to China",
+    "summary": "The Commission's sixth annual FDI screening report shows a record rise in notifications, and EU leaders meet to discuss China trade.",
+    "file": "fdi-daily-2026-10-15.mp3",
+    "bytes": 765072,
+    "duration_s": 128,
+    "published": "Thu, 15 Oct 2026 08:50:33 +0000",
+    "items": [
+      {
+        "headline": "Commission publishes sixth annual FDI screening report: notifications up 40 per cent",
+        "jurisdiction": "EU",
+        "outcome": null,
+        "sources": [
+          "https://policy.trade.ec.europa.eu/news/screening-foreign-direct-investment-continues-advance-eu-security-and-public-order-2026-10-14_en"
+        ]
+      },
+      {
+        "headline": "European Council 15-16 October: draft conclusions on China",
+        "jurisdiction": "EU",
+        "outcome": null,
+        "sources": [
+          "https://www.usnews.com/news/world/articles/2026-10-15/eu-leaders-to-tackle-china-exports-energy-prices-budget-at-summit"
+        ]
+      }
+    ]
   }
 ]

@@ -388,5 +388,27 @@
       "https://www.wilmerhale.com/en/insights/client-alerts/20261009-treasury-issues-first-civil-penalty-under-outbound-investment-security-program"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-10-15",
+    "story_key": "eu-fdi-screening-sixth-annual-report-2026-10-14",
+    "headline": "Commission publishes sixth annual FDI screening report: notifications up 40 per cent",
+    "jurisdiction": "EU",
+    "what_was_said": "Published 14 Oct 2026, covering 2025: 667 notifications versus 477 in 2024; 88 per cent closed within 15 days; 12 per cent needed in-depth assessment, 53 per cent of those in manufacturing; opinions in under 2 per cent of cases; all Member States now have frameworks.",
+    "sources": [
+      "https://policy.trade.ec.europa.eu/news/screening-foreign-direct-investment-continues-advance-eu-security-and-public-order-2026-10-14_en"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-10-15",
+    "story_key": "eu-china-mid-october-trade-deadline",
+    "headline": "European Council 15-16 October: draft conclusions on China",
+    "jurisdiction": "EU",
+    "what_was_said": "According to Reuters via U.S. News, draft conclusions ask the Commission to continue dialogue with Beijing while using trade defence measures fully and adding new instruments; adopted text not yet seen.",
+    "sources": [
+      "https://www.usnews.com/news/world/articles/2026-10-15/eu-leaders-to-tackle-china-exports-energy-prices-budget-at-summit"
+    ],
+    "deal": null
   }
 ]
