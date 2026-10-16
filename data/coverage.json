@@ -410,5 +410,28 @@
       "https://www.usnews.com/news/world/articles/2026-10-15/eu-leaders-to-tackle-china-exports-energy-prices-budget-at-summit"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-10-16",
+    "story_key": "eu-china-mid-october-trade-deadline",
+    "headline": "European Council on China: macroeconomic imbalances language, sector quotas, new instruments by year end",
+    "jurisdiction": "EU",
+    "what_was_said": "Euronews (15 Oct 2026): conclusions avoid naming China and refer to macroeconomic imbalances; leaders pressed for protection of chemicals and machinery incl. quotas; Commission to present a diversification instrument and solidarity mechanism by year end; further talks with Beijing in January and March. Seoul Economic Daily, citing Bloomberg and SCMP, reports a fast-acting tool that could cut Chinese goods off the EU market is to be prepared by year end. The 9 Oct arrangement allows 350,000 Chinese hybrids a year over four years.",
+    "sources": [
+      "https://www.euronews.com/2026/10/15/eu-summit-leaders-seek-fast-solutions-to-spiralling-energy-prices",
+      "https://en.sedaily.com/international/2026/10/16/eu-weighs-trade-kill-switch-to-block-chinese-goods"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-10-16",
+    "story_key": "us-cfius-treasury-process-reforms-pilkerton-2026-10-15",
+    "headline": "Treasury outlines CFIUS pre-filing consultation, risk matrix and Operation Shot Clock",
+    "jurisdiction": "US",
+    "what_was_said": "In a Federal News Network interview published 15 Oct 2026, Assistant Secretary Chris Pilkerton described pre-filing consultation, a first public risk and mitigation list, escalation checkpoints within the 90-day review (Operation Shot Clock), the Investment Security Technology Initiative and the planned Known Investor Program.",
+    "sources": [
+      "https://federalnewsnetwork.com/technology-main/2026/10/treasury-aims-to-preempt-foreign-investment-risks-to-national-security/"
+    ],
+    "deal": null
   }
 ]

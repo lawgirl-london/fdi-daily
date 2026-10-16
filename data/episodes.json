@@ -359,5 +359,34 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-16",
+    "tag": "ep-2026-10-16",
+    "title": "European Council turns to China tools; Treasury reworks CFIUS process",
+    "summary": "EU leaders ask for new China trade instruments by year end, and Treasury details CFIUS pre-filing consultation and review checkpoints.",
+    "file": "fdi-daily-2026-10-16.mp3",
+    "bytes": 1192320,
+    "duration_s": 199,
+    "published": "Fri, 16 Oct 2026 05:51:25 +0000",
+    "items": [
+      {
+        "headline": "European Council on China: macroeconomic imbalances language, sector quotas, new instruments by year end",
+        "jurisdiction": "EU",
+        "outcome": null,
+        "sources": [
+          "https://www.euronews.com/2026/10/15/eu-summit-leaders-seek-fast-solutions-to-spiralling-energy-prices",
+          "https://en.sedaily.com/international/2026/10/16/eu-weighs-trade-kill-switch-to-block-chinese-goods"
+        ]
+      },
+      {
+        "headline": "Treasury outlines CFIUS pre-filing consultation, risk matrix and Operation Shot Clock",
+        "jurisdiction": "US",
+        "outcome": null,
+        "sources": [
+          "https://federalnewsnetwork.com/technology-main/2026/10/treasury-aims-to-preempt-foreign-investment-risks-to-national-security/"
+        ]
+      }
+    ]
   }
 ]
