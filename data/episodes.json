@@ -388,5 +388,58 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-19",
+    "tag": "ep-2026-10-19",
+    "title": "Poland reviews Skydance's TVN takeover; Belgium's first FDI block",
+    "summary": "Poland opens a retrospective investment control review of Skydance's indirect takeover of TVN, and Belgium's first FDI prohibition (NHV) comes into focus.",
+    "file": "fdi-daily-2026-10-19.mp3",
+    "bytes": 1130832,
+    "duration_s": 188,
+    "published": "Mon, 19 Oct 2026 08:54:53 +0000",
+    "items": [
+      {
+        "headline": "Poland opens investment control review of Skydance's indirect takeover of TVN",
+        "jurisdiction": "PL",
+        "outcome": "pending",
+        "sources": [
+          "https://en.yenisafak.com/world/poland-reviews-tvn-takeover-by-trump-linked-media-giant-skydance-3724484"
+        ]
+      },
+      {
+        "headline": "Belgium's first FDI prohibition: NHV / GD Helicopter Finance; third annual report",
+        "jurisdiction": "BE",
+        "outcome": "blocked",
+        "sources": [
+          "https://mondaq.com/inward-foreign-investment/1856068/belgian-fdi-screening-in-year-three-rise-in-filings-and-first-blocked-transaction",
+          "https://newmobility.news/en/2026/08/10/belgium-blocks-chinese-acquisition-of-helicopter-operator-nhv/"
+        ]
+      },
+      {
+        "headline": "China's rare earth export control suspension expires 10 November",
+        "jurisdiction": "CN",
+        "outcome": null,
+        "sources": [
+          "https://www.cirs-group.com/en/chemicals/china-temporarily-suspends-export-controls-on-key-raw-materials-including-rare-earths-lithium-batteries-and-diamond"
+        ]
+      },
+      {
+        "headline": "FSR review of JD.com / Ceconomy: provisional deadline 4 November",
+        "jurisdiction": "EU",
+        "outcome": null,
+        "sources": [
+          "https://zavodsky.org/en/intelligence/enforcement/jd-com-ceconomy-fsr-100253/"
+        ]
+      },
+      {
+        "headline": "UK Supreme Court hears LetterOne NSI Act appeal on 10 November",
+        "jurisdiction": "UK",
+        "outcome": null,
+        "sources": [
+          "https://supremecourt.uk/cases/uksc-2026-0012"
+        ]
+      }
+    ]
   }
 ]

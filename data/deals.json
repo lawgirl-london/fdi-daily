@@ -1,5 +1,42 @@
 [
   {
+    "story_key": "pl-tvn-skydance-investment-control-review",
+    "first_reported": "2026-10-19",
+    "updated": "2026-10-19",
+    "jurisdiction": "PL",
+    "headline": "Poland opens investment control review of Skydance's indirect takeover of TVN",
+    "acquirer": "Paramount Skydance (indirect, via Warner Bros. Discovery)",
+    "acquirer_country": "US",
+    "target": "TVN",
+    "target_country": "PL",
+    "sector": "Media / broadcasting",
+    "authority": "Ministry of State Assets",
+    "outcome": "pending",
+    "detail": "Proceedings opened 14 October 2026 under the Act of 24 July 2015; 90 days to approve or order a share sale; TVN on protected list since end of 2024.",
+    "sources": [
+      "https://en.yenisafak.com/world/poland-reviews-tvn-takeover-by-trump-linked-media-giant-skydance-3724484"
+    ]
+  },
+  {
+    "story_key": "be-isc-nhv-gdat-prohibition",
+    "first_reported": "2026-10-19",
+    "updated": "2026-10-19",
+    "jurisdiction": "BE",
+    "headline": "Belgium's first FDI prohibition: NHV / GD Helicopter Finance; third annual report",
+    "acquirer": "GD Helicopter Finance (Dublin), controlled by GDAT Group",
+    "acquirer_country": "CN",
+    "target": "Noordzee Helikopters Vlaanderen (NHV)",
+    "target_country": "BE",
+    "sector": "Offshore helicopter services / defence-adjacent",
+    "authority": "Interfederal Screening Committee",
+    "outcome": "blocked",
+    "detail": "Minister cited national security, strategic interests and possible defence links; formal reasons not published.",
+    "sources": [
+      "https://mondaq.com/inward-foreign-investment/1856068/belgian-fdi-screening-in-year-three-rise-in-filings-and-first-blocked-transaction",
+      "https://newmobility.news/en/2026/08/10/belgium-blocks-chinese-acquisition-of-helicopter-operator-nhv/"
+    ]
+  },
+  {
     "story_key": "de-cosco-zippel-investment-review",
     "first_reported": "2026-10-02",
     "updated": "2026-10-08",

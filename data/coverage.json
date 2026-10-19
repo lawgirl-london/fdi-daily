@@ -433,5 +433,79 @@
       "https://federalnewsnetwork.com/technology-main/2026/10/treasury-aims-to-preempt-foreign-investment-risks-to-national-security/"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-10-19",
+    "story_key": "pl-tvn-skydance-investment-control-review",
+    "headline": "Poland opens investment control review of Skydance's indirect takeover of TVN",
+    "jurisdiction": "PL",
+    "what_was_said": "Ministry of State Assets opened proceedings under the 2015 investment control act after Paramount Skydance's Warner Bros. Discovery deal closed; 90 days to approve or object; filing status disputed.",
+    "sources": [
+      "https://en.yenisafak.com/world/poland-reviews-tvn-takeover-by-trump-linked-media-giant-skydance-3724484"
+    ],
+    "deal": {
+      "acquirer": "Paramount Skydance (indirect, via Warner Bros. Discovery)",
+      "acquirer_country": "US",
+      "target": "TVN",
+      "target_country": "PL",
+      "sector": "Media / broadcasting",
+      "authority": "Ministry of State Assets",
+      "outcome": "pending",
+      "detail": "Proceedings opened 14 October 2026 under the Act of 24 July 2015; 90 days to approve or order a share sale; TVN on protected list since end of 2024."
+    }
+  },
+  {
+    "date": "2026-10-19",
+    "story_key": "be-isc-nhv-gdat-prohibition",
+    "headline": "Belgium's first FDI prohibition: NHV / GD Helicopter Finance; third annual report",
+    "jurisdiction": "BE",
+    "what_was_said": "Interfederal Screening Committee blocked GDAT-controlled GD Helicopter Finance's acquisition of NHV, announced 5 August; third annual report shows 191 notifications, screening phase in about 4 per cent; reasons unpublished.",
+    "sources": [
+      "https://mondaq.com/inward-foreign-investment/1856068/belgian-fdi-screening-in-year-three-rise-in-filings-and-first-blocked-transaction",
+      "https://newmobility.news/en/2026/08/10/belgium-blocks-chinese-acquisition-of-helicopter-operator-nhv/"
+    ],
+    "deal": {
+      "acquirer": "GD Helicopter Finance (Dublin), controlled by GDAT Group",
+      "acquirer_country": "CN",
+      "target": "Noordzee Helikopters Vlaanderen (NHV)",
+      "target_country": "BE",
+      "sector": "Offshore helicopter services / defence-adjacent",
+      "authority": "Interfederal Screening Committee",
+      "outcome": "blocked",
+      "detail": "Minister cited national security, strategic interests and possible defence links; formal reasons not published."
+    }
+  },
+  {
+    "date": "2026-10-19",
+    "story_key": "cn-rare-earth-controls-suspension-expiry-2026-11-10",
+    "headline": "China's rare earth export control suspension expires 10 November",
+    "jurisdiction": "CN",
+    "what_was_said": "Suspension expires on the 10th of November.",
+    "sources": [
+      "https://www.cirs-group.com/en/chemicals/china-temporarily-suspends-export-controls-on-key-raw-materials-including-rare-earths-lithium-batteries-and-diamond"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-10-19",
+    "story_key": "eu-fsr-jd-com-ceconomy",
+    "headline": "FSR review of JD.com / Ceconomy: provisional deadline 4 November",
+    "jurisdiction": "EU",
+    "what_was_said": "Provisional deadline 4 November.",
+    "sources": [
+      "https://zavodsky.org/en/intelligence/enforcement/jd-com-ceconomy-fsr-100253/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-10-19",
+    "story_key": "uk-nsia-supreme-court-letterone-upp",
+    "headline": "UK Supreme Court hears LetterOne NSI Act appeal on 10 November",
+    "jurisdiction": "UK",
+    "what_was_said": "Hearing on 10 November.",
+    "sources": [
+      "https://supremecourt.uk/cases/uksc-2026-0012"
+    ],
+    "deal": null
   }
 ]
