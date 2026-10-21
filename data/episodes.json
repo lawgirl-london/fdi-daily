@@ -462,5 +462,41 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-21",
+    "tag": "ep-2026-10-21",
+    "title": "China tightens technology and drone export controls",
+    "summary": "A quiet day for screening decisions: China proposes new technology export restrictions and widens its drone component controls, with deadlines in November.",
+    "file": "fdi-daily-2026-10-21.mp3",
+    "bytes": 1011456,
+    "duration_s": 169,
+    "published": "Wed, 21 Oct 2026 08:52:13 +0000",
+    "items": [
+      {
+        "headline": "China proposes adding 40 AI, biomedicine and solar technologies to export catalogue; registration in force",
+        "jurisdiction": "CN",
+        "outcome": null,
+        "sources": [
+          "https://www.geopolitechs.org/p/china-imposes-temporary-export-registration"
+        ]
+      },
+      {
+        "headline": "China extends drone component export controls to all destinations from 18 November",
+        "jurisdiction": "CN",
+        "outcome": null,
+        "sources": [
+          "https://www.techtimes.com/articles/329240/20261020/china-sets-48-volt-threshold-drone-motor-licenses-global-buyers-face-nov-18-deadline.htm"
+        ]
+      },
+      {
+        "headline": "China's rare earth export control suspension expires 10 November",
+        "jurisdiction": "CN",
+        "outcome": null,
+        "sources": [
+          "https://www.cirs-group.com/en/chemicals/china-temporarily-suspends-export-controls-on-key-raw-materials-including-rare-earths-lithium-batteries-and-diamond"
+        ]
+      }
+    ]
   }
 ]

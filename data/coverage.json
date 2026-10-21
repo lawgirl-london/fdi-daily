@@ -519,5 +519,38 @@
       "https://www.jonesday.com/de/insights/2026/09/what-the-european-unions-proposed-industrial-accelerator-act-means-for-foreign-investors"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-10-21",
+    "story_key": "cn-technology-export-catalogue-ai-biotech-solar-announcement-48",
+    "headline": "China proposes adding 40 AI, biomedicine and solar technologies to export catalogue; registration in force",
+    "jurisdiction": "CN",
+    "what_was_said": "MOFCOM and MOST Announcement No. 48 of 2026 (16 Oct) proposes 40 technologies (23 AI, 5 biomedicine, 12 photovoltaics), 14 for prohibition and 26 for restriction. Pre-export registration applies from 16 Oct until the revised catalogue takes effect; comments close 15 Nov 2026.",
+    "sources": [
+      "https://www.geopolitechs.org/p/china-imposes-temporary-export-registration"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-10-21",
+    "story_key": "cn-drone-component-export-controls-announcement-49",
+    "headline": "China extends drone component export controls to all destinations from 18 November",
+    "jurisdiction": "CN",
+    "what_was_said": "MOFCOM Announcement No. 49 (19 Oct 2026), one of four dual-use packages, controls drone motors, speed controllers, large carbon-fibre propellers and swarm/autonomy software for all destinations, previously US-only under Announcement No. 34 of August; effective 18 Nov; some agricultural drone thresholds relaxed.",
+    "sources": [
+      "https://www.techtimes.com/articles/329240/20261020/china-sets-48-volt-threshold-drone-motor-licenses-global-buyers-face-nov-18-deadline.htm"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-10-21",
+    "story_key": "cn-rare-earth-controls-suspension-expiry-2026-11-10",
+    "headline": "China's rare earth export control suspension expires 10 November",
+    "jurisdiction": "CN",
+    "what_was_said": "Watch list reminder: suspension expires on 10 November.",
+    "sources": [
+      "https://www.cirs-group.com/en/chemicals/china-temporarily-suspends-export-controls-on-key-raw-materials-including-rare-earths-lithium-batteries-and-diamond"
+    ],
+    "deal": null
   }
 ]
