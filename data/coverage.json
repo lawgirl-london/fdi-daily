@@ -552,5 +552,29 @@
       "https://www.cirs-group.com/en/chemicals/china-temporarily-suspends-export-controls-on-key-raw-materials-including-rare-earths-lithium-batteries-and-diamond"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-10-23",
+    "story_key": "us-coins-act-treasury-rules-deadline-2027-03-13",
+    "headline": "Treasury issues proposed rule implementing the COINS Act outbound investment regime",
+    "jurisdiction": "US",
+    "what_was_said": "On 22 Oct 2026 Treasury issued an NPRM implementing the COINS Act: notification requirements for notifiable technologies and prohibitions for prohibited ones. Covered areas are semiconductors, AI, quantum, high-performance computing, hypersonics and added biotechnology. Press reports name China, Russia, Iran, North Korea and Cuba and a 50,000 dollar threshold, unconfirmed from the Treasury release. Final rules to set the effective date; existing rules apply until then.",
+    "sources": [
+      "https://home.treasury.gov/news/press-releases/sb0667/",
+      "https://thebusinessjournal.com/treasury-foreign-tech-investment-restrictions-2026",
+      "https://home.treasury.gov/system/files/206/Fact-Sheet-FAQs-COINS-Act-NPRM.pdf"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-10-23",
+    "story_key": "uk-nsia-mitie-ocs-cleared",
+    "headline": "UK Investment Security Unit clears OCS takeover of Mitie",
+    "jurisdiction": "UK",
+    "what_was_said": "The ISU cleared OCS Group's 3.1 billion pound acquisition of Mitie Group on national security grounds (Alliance News, 22 Oct 2026). The European Commission has also approved it; only CMA competition clearance remains, with completion expected in Q1 2027.",
+    "sources": [
+      "https://www.marketscreener.com/news/mitie-takeover-by-ocs-clears-uk-national-security-hurdle-ce785cdedb8df325"
+    ],
+    "deal": null
   }
 ]

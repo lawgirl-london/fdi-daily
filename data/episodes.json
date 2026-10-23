@@ -498,5 +498,35 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-23",
+    "tag": "ep-2026-10-23",
+    "title": "Treasury proposes COINS Act outbound investment rules",
+    "summary": "A quiet day for screening decisions: Treasury publishes its proposed rule implementing the COINS Act, and the UK's Investment Security Unit clears OCS's takeover of Mitie.",
+    "file": "fdi-daily-2026-10-23.mp3",
+    "bytes": 1033776,
+    "duration_s": 172,
+    "published": "Fri, 23 Oct 2026 05:54:45 +0000",
+    "items": [
+      {
+        "headline": "Treasury issues proposed rule implementing the COINS Act outbound investment regime",
+        "jurisdiction": "US",
+        "outcome": null,
+        "sources": [
+          "https://home.treasury.gov/news/press-releases/sb0667/",
+          "https://thebusinessjournal.com/treasury-foreign-tech-investment-restrictions-2026",
+          "https://home.treasury.gov/system/files/206/Fact-Sheet-FAQs-COINS-Act-NPRM.pdf"
+        ]
+      },
+      {
+        "headline": "UK Investment Security Unit clears OCS takeover of Mitie",
+        "jurisdiction": "UK",
+        "outcome": null,
+        "sources": [
+          "https://www.marketscreener.com/news/mitie-takeover-by-ocs-clears-uk-national-security-hurdle-ce785cdedb8df325"
+        ]
+      }
+    ]
   }
 ]
