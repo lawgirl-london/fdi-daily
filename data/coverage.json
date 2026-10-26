@@ -576,5 +576,61 @@
       "https://www.marketscreener.com/news/mitie-takeover-by-ocs-clears-uk-national-security-hurdle-ce785cdedb8df325"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-10-26",
+    "story_key": "us-coins-act-treasury-rules-deadline-2027-03-13",
+    "headline": "China's Commerce Ministry condemns Treasury's COINS Act proposed rule",
+    "jurisdiction": "US",
+    "what_was_said": "On Saturday 24 Oct 2026 China's Commerce Ministry, per The Hill citing Global Times, said the proposed outbound investment rule discriminatorily widens China-related restrictions, is an overstretching of national security, and reserved the right to take corresponding measures; officials urged the US to reconsider. Treasury Secretary Bessent said the aim is to stop adversaries using US investment to develop critical technologies. Public comment period precedes the final rule; no deadline found.",
+    "sources": [
+      "https://thehill.com/policy/international/6170202-china-opposes-us-tech-investment-rules/amp",
+      "https://www.bloomberg.com/news/articles/2026-10-22/us-proposes-curbs-on-investment-in-chinese-biotech-firms"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-10-26",
+    "story_key": "eu-industrial-accelerator-act-irish-compromise-fdi-conditions",
+    "headline": "Officials discuss Irish compromise on Industrial Accelerator Act investment conditions, 26-27 October",
+    "jurisdiction": "EU",
+    "what_was_said": "Watch list: per MLex, EU officials discuss on 26-27 Oct an Irish draft compromise allowing exemptions from conditions such as ownership limits and lifting conditions after seven rather than ten years.",
+    "sources": [
+      "https://www.mlex.com/mlex/articles/2539360/ireland-suggests-exemptions-from-foreign-investment-conditions-under-draft-industry-rules"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-10-26",
+    "story_key": "eu-fsr-jd-com-ceconomy",
+    "headline": "FSR review of JD.com / Ceconomy: provisional deadline 4 November",
+    "jurisdiction": "EU",
+    "what_was_said": "Watch list: provisional deadline 4 Nov 2026 in the Commission's in-depth FSR review of JD.com's acquisition of Ceconomy.",
+    "sources": [
+      "https://zavodsky.org/en/intelligence/enforcement/jd-com-ceconomy-fsr-100253/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-10-26",
+    "story_key": "uk-nsia-supreme-court-letterone-upp",
+    "headline": "UK Supreme Court hears LetterOne NSI Act appeal on 10 November",
+    "jurisdiction": "UK",
+    "what_was_said": "Watch list: hearing on 10 Nov 2026, the first NSI Act case at the Supreme Court.",
+    "sources": [
+      "https://supremecourt.uk/cases/uksc-2026-0012"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-10-26",
+    "story_key": "cn-rare-earth-controls-suspension-expiry-2026-11-10",
+    "headline": "China's rare earth export control suspension expires 10 November",
+    "jurisdiction": "CN",
+    "what_was_said": "Watch list: suspension of the October 2025 rare earth export controls expires on 10 Nov 2026.",
+    "sources": [
+      "https://www.cirs-group.com/en/chemicals/china-temporarily-suspends-export-controls-on-key-raw-materials-including-rare-earths-lithium-batteries-and-diamond"
+    ],
+    "deal": null
   }
 ]

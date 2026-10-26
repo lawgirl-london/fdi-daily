@@ -528,5 +528,58 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-26",
+    "tag": "ep-2026-10-26",
+    "title": "Beijing answers Treasury's outbound investment rule",
+    "summary": "A short Monday edition: China's Commerce Ministry responds to the COINS Act proposed rule, with the week's key dates ahead.",
+    "file": "fdi-daily-2026-10-26.mp3",
+    "bytes": 848304,
+    "duration_s": 141,
+    "published": "Mon, 26 Oct 2026 08:58:53 +0000",
+    "items": [
+      {
+        "headline": "China's Commerce Ministry condemns Treasury's COINS Act proposed rule",
+        "jurisdiction": "US",
+        "outcome": null,
+        "sources": [
+          "https://thehill.com/policy/international/6170202-china-opposes-us-tech-investment-rules/amp",
+          "https://www.bloomberg.com/news/articles/2026-10-22/us-proposes-curbs-on-investment-in-chinese-biotech-firms"
+        ]
+      },
+      {
+        "headline": "Officials discuss Irish compromise on Industrial Accelerator Act investment conditions, 26-27 October",
+        "jurisdiction": "EU",
+        "outcome": null,
+        "sources": [
+          "https://www.mlex.com/mlex/articles/2539360/ireland-suggests-exemptions-from-foreign-investment-conditions-under-draft-industry-rules"
+        ]
+      },
+      {
+        "headline": "FSR review of JD.com / Ceconomy: provisional deadline 4 November",
+        "jurisdiction": "EU",
+        "outcome": null,
+        "sources": [
+          "https://zavodsky.org/en/intelligence/enforcement/jd-com-ceconomy-fsr-100253/"
+        ]
+      },
+      {
+        "headline": "UK Supreme Court hears LetterOne NSI Act appeal on 10 November",
+        "jurisdiction": "UK",
+        "outcome": null,
+        "sources": [
+          "https://supremecourt.uk/cases/uksc-2026-0012"
+        ]
+      },
+      {
+        "headline": "China's rare earth export control suspension expires 10 November",
+        "jurisdiction": "CN",
+        "outcome": null,
+        "sources": [
+          "https://www.cirs-group.com/en/chemicals/china-temporarily-suspends-export-controls-on-key-raw-materials-including-rare-earths-lithium-batteries-and-diamond"
+        ]
+      }
+    ]
   }
 ]
