@@ -581,5 +581,58 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-28",
+    "tag": "ep-2026-10-28",
+    "title": "Finland's greenfield screening bill; watch list for JD.com and LetterOne",
+    "summary": "A short edition: Finland sends a new investment screening act with greenfield coverage to parliament, plus the dates to watch in the next fortnight.",
+    "file": "fdi-daily-2026-10-28.mp3",
+    "bytes": 833760,
+    "duration_s": 139,
+    "published": "Wed, 28 Oct 2026 06:00:46 +0000",
+    "items": [
+      {
+        "headline": "Finland's government submits new investment screening act with greenfield coverage",
+        "jurisdiction": "FI",
+        "outcome": null,
+        "sources": [
+          "https://www.hannessnellman.com/news-and-views/blog/finlands-fdi-reform-reaches-parliament-10-key-features-of-the-government-proposal/",
+          "https://www.dittmar.fi/news/finlands-proposed-expanded-fdi-regime-key-changes-and-takeaways/"
+        ]
+      },
+      {
+        "headline": "FSR review of JD.com / Ceconomy: provisional deadline 4 November",
+        "jurisdiction": "EU",
+        "outcome": null,
+        "sources": [
+          "https://zavodsky.org/en/intelligence/enforcement/jd-com-ceconomy-fsr-100253/"
+        ]
+      },
+      {
+        "headline": "UK Supreme Court hears LetterOne NSI Act appeal on 10 November",
+        "jurisdiction": "UK",
+        "outcome": null,
+        "sources": [
+          "https://supremecourt.uk/cases/uksc-2026-0012"
+        ]
+      },
+      {
+        "headline": "China's rare earth export control suspension expires 10 November",
+        "jurisdiction": "CN",
+        "outcome": null,
+        "sources": [
+          "https://www.cirs-group.com/en/chemicals/china-temporarily-suspends-export-controls-on-key-raw-materials-including-rare-earths-lithium-batteries-and-diamond"
+        ]
+      },
+      {
+        "headline": "China extends drone component export controls to all destinations from 18 November",
+        "jurisdiction": "CN",
+        "outcome": null,
+        "sources": [
+          "https://www.techtimes.com/articles/329240/20261020/china-sets-48-volt-threshold-drone-motor-licenses-global-buyers-face-nov-18-deadline.htm"
+        ]
+      }
+    ]
   }
 ]

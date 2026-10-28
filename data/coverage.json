@@ -632,5 +632,61 @@
       "https://www.cirs-group.com/en/chemicals/china-temporarily-suspends-export-controls-on-key-raw-materials-including-rare-earths-lithium-batteries-and-diamond"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-10-28",
+    "story_key": "fi-fdi-screening-act-government-proposal-greenfield",
+    "headline": "Finland's government submits new investment screening act with greenfield coverage",
+    "jurisdiction": "FI",
+    "what_was_said": "Government proposal submitted 22 October replaces Act 172/2012; adds greenfield screening in defence, large data centres, energy and strategic raw materials, plus 66.6 and 90 per cent thresholds; intended in force 1 April 2027, subject to parliament.",
+    "sources": [
+      "https://www.hannessnellman.com/news-and-views/blog/finlands-fdi-reform-reaches-parliament-10-key-features-of-the-government-proposal/",
+      "https://www.dittmar.fi/news/finlands-proposed-expanded-fdi-regime-key-changes-and-takeaways/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-10-28",
+    "story_key": "eu-fsr-jd-com-ceconomy",
+    "headline": "FSR review of JD.com / Ceconomy: provisional deadline 4 November",
+    "jurisdiction": "EU",
+    "what_was_said": "Provisional deadline for the Commission's in-depth FSR review is 4 November.",
+    "sources": [
+      "https://zavodsky.org/en/intelligence/enforcement/jd-com-ceconomy-fsr-100253/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-10-28",
+    "story_key": "uk-nsia-supreme-court-letterone-upp",
+    "headline": "UK Supreme Court hears LetterOne NSI Act appeal on 10 November",
+    "jurisdiction": "UK",
+    "what_was_said": "Supreme Court hearing on 10 November.",
+    "sources": [
+      "https://supremecourt.uk/cases/uksc-2026-0012"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-10-28",
+    "story_key": "cn-rare-earth-controls-suspension-expiry-2026-11-10",
+    "headline": "China's rare earth export control suspension expires 10 November",
+    "jurisdiction": "CN",
+    "what_was_said": "Suspension expires on 10 November.",
+    "sources": [
+      "https://www.cirs-group.com/en/chemicals/china-temporarily-suspends-export-controls-on-key-raw-materials-including-rare-earths-lithium-batteries-and-diamond"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-10-28",
+    "story_key": "cn-drone-component-export-controls-announcement-49",
+    "headline": "China extends drone component export controls to all destinations from 18 November",
+    "jurisdiction": "CN",
+    "what_was_said": "Extended controls take effect on 18 November.",
+    "sources": [
+      "https://www.techtimes.com/articles/329240/20261020/china-sets-48-volt-threshold-drone-motor-licenses-global-buyers-face-nov-18-deadline.htm"
+    ],
+    "deal": null
   }
 ]
