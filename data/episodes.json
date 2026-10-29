@@ -634,5 +634,25 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-29",
+    "tag": "ep-2026-10-29",
+    "title": "Mexico completes its national security screening reform",
+    "summary": "A quiet day: Mexico's Congress completes passage of a pre-closing national security review regime for foreign investment.",
+    "file": "fdi-daily-2026-10-29.mp3",
+    "bytes": 722016,
+    "duration_s": 120,
+    "published": "Thu, 29 Oct 2026 09:05:10 +0000",
+    "items": [
+      {
+        "headline": "Mexico's Congress completes passage of national security screening reform",
+        "jurisdiction": "MX",
+        "outcome": null,
+        "sources": [
+          "https://basham.com.mx/en/mexicos-congress-approves-new-national-security-screening-regime-for-foreign-investment/"
+        ]
+      }
+    ]
   }
 ]
