@@ -654,5 +654,49 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-30",
+    "tag": "ep-2026-10-30",
+    "title": "Germany's draft Investment Screening Act goes to consultation",
+    "summary": "A quiet day: Germany's draft Investment Screening Act enters consultation until 12 November, plus the November watch list.",
+    "file": "fdi-daily-2026-10-30.mp3",
+    "bytes": 1067472,
+    "duration_s": 178,
+    "published": "Fri, 30 Oct 2026 09:05:29 +0000",
+    "items": [
+      {
+        "headline": "Germany opens consultation on draft Investment Screening Act and Ordinance",
+        "jurisdiction": "DE",
+        "outcome": null,
+        "sources": [
+          "http://foreigninvestment.bakermckenzie.com/2026/10/27/germany-publishes-draft-standalone-investment-screening-act-and-ordinance/"
+        ]
+      },
+      {
+        "headline": "JD.com / Ceconomy FSR in-depth review deadline 4 November",
+        "jurisdiction": "EU",
+        "outcome": null,
+        "sources": [
+          "https://www.retail-insight-network.com/news/jd-com-eu-approval-ceconomy-deal/"
+        ]
+      },
+      {
+        "headline": "Supreme Court hears LetterOne NSI Act appeal on 10 November",
+        "jurisdiction": "UK",
+        "outcome": null,
+        "sources": [
+          "https://www.stephensonharwood.com/media/jkbe5enz/stephenson-harwood-nsia-annual-report-2025-2026.pdf"
+        ]
+      },
+      {
+        "headline": "China rare earth controls suspension expires 10 November",
+        "jurisdiction": "CN",
+        "outcome": null,
+        "sources": [
+          "https://www.mining.com/china-to-suspend-new-ree-export-controls-for-1-year"
+        ]
+      }
+    ]
   }
 ]

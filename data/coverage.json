@@ -699,5 +699,49 @@
       "https://basham.com.mx/en/mexicos-congress-approves-new-national-security-screening-regime-for-foreign-investment/"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-10-30",
+    "story_key": "de-investitionspruefgesetz-draft",
+    "headline": "Germany opens consultation on draft Investment Screening Act and Ordinance",
+    "jurisdiction": "DE",
+    "what_was_said": "BMWE launched consultation on 15 Oct 2026 on a draft standalone Investment Screening Act and Ordinance; comments due 12 Nov. Three procedures (10%, 10/25%, 25% thresholds), expanded sensitive categories, prohibitions without cabinet decision, 45-day phase one and 120-day phase two, fines up to EUR 1 million.",
+    "sources": [
+      "http://foreigninvestment.bakermckenzie.com/2026/10/27/germany-publishes-draft-standalone-investment-screening-act-and-ordinance/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-10-30",
+    "story_key": "eu-fsr-jd-com-ceconomy",
+    "headline": "JD.com / Ceconomy FSR in-depth review deadline 4 November",
+    "jurisdiction": "EU",
+    "what_was_said": "Watch list: Commission's provisional deadline for its in-depth FSR review is 4 November 2026.",
+    "sources": [
+      "https://www.retail-insight-network.com/news/jd-com-eu-approval-ceconomy-deal/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-10-30",
+    "story_key": "uk-nsia-supreme-court-letterone-upp",
+    "headline": "Supreme Court hears LetterOne NSI Act appeal on 10 November",
+    "jurisdiction": "UK",
+    "what_was_said": "Watch list: hearing on 10 Nov 2026.",
+    "sources": [
+      "https://www.stephensonharwood.com/media/jkbe5enz/stephenson-harwood-nsia-annual-report-2025-2026.pdf"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-10-30",
+    "story_key": "cn-rare-earth-controls-suspension-expiry-2026-11-10",
+    "headline": "China rare earth controls suspension expires 10 November",
+    "jurisdiction": "CN",
+    "what_was_said": "Watch list: suspension of the October 2025 rare earth export controls expires on 10 Nov 2026.",
+    "sources": [
+      "https://www.mining.com/china-to-suspend-new-ree-export-controls-for-1-year"
+    ],
+    "deal": null
   }
 ]
