@@ -743,5 +743,74 @@
       "https://www.mining.com/china-to-suspend-new-ree-export-controls-for-1-year"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-11-03",
+    "story_key": "cn-mofcom-draft-trade-secrets-special-provisions",
+    "headline": "MOFCOM draft Special Provisions on Protection of Chinese Trade Secrets",
+    "jurisdiction": "CN",
+    "what_was_said": "MOFCOM published a draft on 26 Oct 2026 allowing restrictions on trade, new investment, entry and employment for foreign entities infringing Chinese trade secrets in ways threatening national interests; comments close 24 Nov. Linked in reporting to US PAIPA sanctions on five Chinese entities on 19 Oct. Based on secondary sources.",
+    "sources": [
+      "https://sanctionsnews.bakermckenzie.com/china-proposes-new-sanctions-tool-in-response-to-trade-secret-theft/",
+      "https://www.scmp.com/economy/policy/article/3372161/china-drafts-rules-protect-trade-secrets-foreign-entities",
+      "https://www.steptoe.com/en/news-publications/stepwise-risk-outlook/sanctions-update-november-2-2026.html"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-03",
+    "story_key": "eu-fsr-jd-com-ceconomy",
+    "headline": "JD.com / Ceconomy FSR decision provisionally due 4 November",
+    "jurisdiction": "EU",
+    "what_was_said": "Watch list: Commission FSR in-depth review deadline 4 Nov 2026; JD.com improved commitments after market testing; outcome unconfirmed.",
+    "sources": [
+      "https://shopappy.com/business/ma-exits/jd-ceconomy-eu-approval-november-4",
+      "https://www.retail-insight-network.com/news/jd-com-eu-approval-ceconomy-deal/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-03",
+    "story_key": "uk-nsia-supreme-court-letterone-upp",
+    "headline": "Supreme Court hears LetterOne NSI Act appeal on 10 November",
+    "jurisdiction": "UK",
+    "what_was_said": "Watch list: 10 Nov 2026 hearing, first NSI Act case at Supreme Court, on compensation for forced sale of Upp.",
+    "sources": [
+      "https://supremecourt.uk/cases/uksc-2026-0012"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-03",
+    "story_key": "cn-rare-earth-controls-suspension-expiry-2026-11-10",
+    "headline": "China rare earth controls suspension expires 10 November",
+    "jurisdiction": "CN",
+    "what_was_said": "Watch list: suspension of October 2025 rare earth export controls expires 10 Nov 2026.",
+    "sources": [
+      "https://www.cirs-group.com/en/chemicals/china-temporarily-suspends-export-controls-on-key-raw-materials-including-rare-earths-lithium-batteries-and-diamond"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-03",
+    "story_key": "de-investitionspruefgesetz-draft",
+    "headline": "German draft Investment Screening Act consultation closes 12 November",
+    "jurisdiction": "DE",
+    "what_was_said": "Watch list: consultation on draft Act and Ordinance closes 12 Nov 2026.",
+    "sources": [
+      "http://foreigninvestment.bakermckenzie.com/2026/10/27/germany-publishes-draft-standalone-investment-screening-act-and-ordinance/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-03",
+    "story_key": "mx-foreign-investment-law-national-security-reform",
+    "headline": "Mexico screening reform awaits Official Gazette publication",
+    "jurisdiction": "MX",
+    "what_was_said": "Watch list: reform passed by both chambers; no Official Gazette publication found yet.",
+    "sources": [
+      "https://basham.com.mx/en/mexicos-congress-approves-new-national-security-screening-regime-for-foreign-investment/"
+    ],
+    "deal": null
   }
 ]

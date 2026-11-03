@@ -1,136 +1,5 @@
 [
   {
-    "date": "2026-10-02",
-    "tag": "ep-2026-10-02",
-    "title": "Berlin moves to block Cosco–Zippel; Germany's draft Investment Screening Act",
-    "summary": "Germany prepares to prohibit Cosco's 80 per cent stake in Hamburg logistics firm Zippel and circulates a draft Investment Screening Act, alongside an Italian golden power decree on Pirelli, a CFIUS mitigation agreement for BitFuFu, a Canadian national-security review of a lithium deal and Mexico's Senate passing a screening reform.",
-    "file": "fdi-daily-2026-10-02.mp3",
-    "bytes": 2948256,
-    "duration_s": 491,
-    "published": "Fri, 02 Oct 2026 21:43:40 +0000",
-    "items": [
-      {
-        "headline": "Germany intends to prohibit Cosco's 80 per cent stake in Zippel",
-        "jurisdiction": "DE",
-        "outcome": "pending",
-        "sources": [
-          "https://live.euronext.com/en/financial-news/germany-intends-block-sale-logistics-firm-chinas-cosco-newspaper-reports",
-          "https://hansa-online.de/haefen/cosco-einstieg-bei-zippel-spedition-zieht-der-bund-nun-doch-die-reissleine/310697/",
-          "https://bundesregierung.de/breg-de/aktuelles/regierungspressekonferenz-vom-30-september-2026-2454960",
-          "https://www.worldcargonews.com/news/2026/09/germany-to-block-coscos-planned-acquisition-of-zippel-report-says/"
-        ]
-      },
-      {
-        "headline": "Italy imposes golden power prescriptions on Pirelli–ABET HTS defence agreement",
-        "jurisdiction": "IT",
-        "outcome": "conditions",
-        "sources": [
-          "https://press.pirelli.com/golden-power-decree-adopted-to-protect-the-activities-carried-out-by-pirelli-abet-hts-in-the-dedence-sector/",
-          "https://www.ansa.it/sito/notizie/economia/2026/09/29/pirelli-golden-power-sullaccordo-con-abet-htsrilevanza-strategica-per-la-difesa_c9a0f2f4-6a90-45f7-9424-3e7936c67ab6.html"
-        ]
-      },
-      {
-        "headline": "CFIUS clears BitFuFu's stake in Oklahoma bitcoin miner under national security agreement",
-        "jurisdiction": "US",
-        "outcome": "conditions",
-        "sources": [
-          "https://www.tipranks.com/news/company-announcements/bitfufu-wins-cfius-clearance-for-oklahoma-bitcoin-mining-acquisition-under-security-agreement"
-        ]
-      },
-      {
-        "headline": "Canada orders formal ICA review of China Union Holdings' Arizaro lithium deal",
-        "jurisdiction": "CA",
-        "outcome": "pending",
-        "sources": [
-          "https://www.theglobeandmail.com/investing/markets/markets-news/TheNewswire.com/4855644/government-of-canada-advises-formal-review-of-arizaro-transaction/"
-        ]
-      },
-      {
-        "headline": "Germany's draft Investment Screening Act enters inter-ministerial consultation",
-        "jurisdiction": "DE",
-        "outcome": null,
-        "sources": [
-          "https://www.finanznachrichten.de/nachrichten-2026-10/69733899-wirtschaftsministerium-plant-schaerfere-investitionspruefungen-003.htm",
-          "https://www.handelsblatt.com/politik/deutschland/geopolitik-reiche-will-mit-neuem-gesetz-china-einfluss-abwehren/100259028.html"
-        ]
-      },
-      {
-        "headline": "Mexican Senate passes national security review reform of Foreign Investment Law",
-        "jurisdiction": "MX",
-        "outcome": null,
-        "sources": [
-          "https://www.cronica.com.mx/nacional/2026/09/30/avala-senado-integrar-a-fuerzas-armadas-en-revision-de-inversion-extranjera-por-seguridad-nacional/",
-          "https://www.riotimesonline.com/mexico-senate-passes-foreign-investment-security-reform-2026"
-        ]
-      },
-      {
-        "headline": "G20 trade ministers deadlock on overcapacity",
-        "jurisdiction": "GLOBAL",
-        "outcome": null,
-        "sources": [
-          "https://www.france24.com/en/economy/20261002-g20-trade-ministers-overcapacity-impasse-greer"
-        ]
-      },
-      {
-        "headline": "China warns EU over discriminatory measures as France and Germany push tougher tool",
-        "jurisdiction": "EU",
-        "outcome": null,
-        "sources": [
-          "https://eutoday.net/china-eu-trade-measures-france-germany/",
-          "https://www.usnews.com/news/world/articles/2026-09-29/china-vows-response-if-eu-introduces-moves-targeting-chinese-trade"
-        ]
-      },
-      {
-        "headline": "OFAC Iran designations hit automotive, rail, metals and shadow banking",
-        "jurisdiction": "US",
-        "outcome": null,
-        "sources": [
-          "https://mrsanctions.com/2026/10/01/october-1-2026-ofac-update-part-1-additions-to-iran-and-tco-programs-and-updates-to-iran-designations/"
-        ]
-      },
-      {
-        "headline": "Sycamore in advanced talks to sell Boots to Weston family",
-        "jurisdiction": "UK",
-        "outcome": null,
-        "sources": [
-          "https://www.privateequitywire.co.uk/sycamore-nears-9bn-sale-of-boots-to-weston-family/"
-        ]
-      },
-      {
-        "headline": "Swiss consultation on Investment Screening Ordinance closes 5 October",
-        "jurisdiction": "CH",
-        "outcome": null,
-        "sources": [
-          "https://www.admin.ch/de/newnsb/Di8EBcLj9hGfoojQjcLis"
-        ]
-      },
-      {
-        "headline": "FSR in-depth review of JD.com / Ceconomy: provisional deadline 4 November",
-        "jurisdiction": "EU",
-        "outcome": null,
-        "sources": [
-          "https://zavodsky.org/en/intelligence/enforcement/jd-com-ceconomy-fsr-100253/"
-        ]
-      },
-      {
-        "headline": "UK Supreme Court to hear LetterOne NSI Act appeal on 10 November",
-        "jurisdiction": "UK",
-        "outcome": null,
-        "sources": [
-          "https://supremecourt.uk/cases/uksc-2026-0012"
-        ]
-      },
-      {
-        "headline": "Japan's amended FEFTA rules take effect 4 January 2027",
-        "jurisdiction": "JP",
-        "outcome": null,
-        "sources": [
-          "https://www.mof.go.jp/english/policy/international_policy/fdi/News_and_Communications/20260908210358.html"
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-10-05",
     "tag": "ep-2026-10-05",
     "title": "EU sets China mid-October trade deadline; UK weighs Chinese EV tariffs",
@@ -695,6 +564,69 @@
         "outcome": null,
         "sources": [
           "https://www.mining.com/china-to-suspend-new-ree-export-controls-for-1-year"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-11-03",
+    "tag": "ep-2026-11-03",
+    "title": "China's draft trade secrets sanctions tool; a busy week of deadlines",
+    "summary": "A quiet day: China's Commerce Ministry proposes investment and entry restrictions on foreign entities over trade secrets, plus the week's deadlines from the JD.com Ceconomy ruling to the LetterOne hearing.",
+    "file": "fdi-daily-2026-11-03.mp3",
+    "bytes": 1015632,
+    "duration_s": 169,
+    "published": "Tue, 03 Nov 2026 12:55:23 +0000",
+    "items": [
+      {
+        "headline": "MOFCOM draft Special Provisions on Protection of Chinese Trade Secrets",
+        "jurisdiction": "CN",
+        "outcome": null,
+        "sources": [
+          "https://sanctionsnews.bakermckenzie.com/china-proposes-new-sanctions-tool-in-response-to-trade-secret-theft/",
+          "https://www.scmp.com/economy/policy/article/3372161/china-drafts-rules-protect-trade-secrets-foreign-entities",
+          "https://www.steptoe.com/en/news-publications/stepwise-risk-outlook/sanctions-update-november-2-2026.html"
+        ]
+      },
+      {
+        "headline": "JD.com / Ceconomy FSR decision provisionally due 4 November",
+        "jurisdiction": "EU",
+        "outcome": null,
+        "sources": [
+          "https://shopappy.com/business/ma-exits/jd-ceconomy-eu-approval-november-4",
+          "https://www.retail-insight-network.com/news/jd-com-eu-approval-ceconomy-deal/"
+        ]
+      },
+      {
+        "headline": "Supreme Court hears LetterOne NSI Act appeal on 10 November",
+        "jurisdiction": "UK",
+        "outcome": null,
+        "sources": [
+          "https://supremecourt.uk/cases/uksc-2026-0012"
+        ]
+      },
+      {
+        "headline": "China rare earth controls suspension expires 10 November",
+        "jurisdiction": "CN",
+        "outcome": null,
+        "sources": [
+          "https://www.cirs-group.com/en/chemicals/china-temporarily-suspends-export-controls-on-key-raw-materials-including-rare-earths-lithium-batteries-and-diamond"
+        ]
+      },
+      {
+        "headline": "German draft Investment Screening Act consultation closes 12 November",
+        "jurisdiction": "DE",
+        "outcome": null,
+        "sources": [
+          "http://foreigninvestment.bakermckenzie.com/2026/10/27/germany-publishes-draft-standalone-investment-screening-act-and-ordinance/"
+        ]
+      },
+      {
+        "headline": "Mexico screening reform awaits Official Gazette publication",
+        "jurisdiction": "MX",
+        "outcome": null,
+        "sources": [
+          "https://basham.com.mx/en/mexicos-congress-approves-new-national-security-screening-regime-for-foreign-investment/"
         ]
       }
     ]
