@@ -1,5 +1,25 @@
 [
   {
+    "story_key": "eu-fsr-jd-com-ceconomy",
+    "first_reported": "2026-11-04",
+    "updated": "2026-11-04",
+    "jurisdiction": "EU",
+    "headline": "Commission conditionally clears JD.com's acquisition of Ceconomy under the FSR",
+    "acquirer": "JD.com",
+    "acquirer_country": "CN",
+    "target": "Ceconomy AG (MediaMarkt, Saturn)",
+    "target_country": "DE",
+    "sector": "Consumer electronics retail",
+    "authority": "European Commission (Foreign Subsidies Regulation)",
+    "outcome": "conditions",
+    "detail": "Commitments for ten years: intra-group transactions incl. financing on market terms; third-party retailers get warehousing, logistics and technology services on same terms as Ceconomy; independent trustee. Concern: possible Chinese financing, tax incentives and grants enabling a higher bid. Closing targeted by 12 Nov 2026.",
+    "sources": [
+      "https://technode.com/2026/11/04/jd-com-wins-conditional-eu-approval-for-2-5-billion-ceconomy-acquisition/",
+      "https://www.marketscreener.com/news/jd-com-secures-conditional-eu-approval-for-ceconomy-acquisition-ce785fd9d088fe24",
+      "https://www.retail-insight-network.com/news/eu-approves-jd-com-ceconomy-acquisition/"
+    ]
+  },
+  {
     "story_key": "pl-tvn-skydance-investment-control-review",
     "first_reported": "2026-10-19",
     "updated": "2026-10-19",

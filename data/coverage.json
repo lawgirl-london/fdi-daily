@@ -812,5 +812,60 @@
       "https://basham.com.mx/en/mexicos-congress-approves-new-national-security-screening-regime-for-foreign-investment/"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-11-04",
+    "story_key": "eu-fsr-jd-com-ceconomy",
+    "headline": "Commission conditionally clears JD.com's acquisition of Ceconomy under the FSR",
+    "jurisdiction": "EU",
+    "what_was_said": "JD.com announced on 3 Nov 2026 conditional Commission approval under the Foreign Subsidies Regulation of its roughly 2.5 billion dollar Ceconomy acquisition. Commitments: market-terms intra-group dealings including financing, equal-terms logistics and technology access for third-party retailers, ten years, independent trustee. Aims to close by 12 Nov.",
+    "sources": [
+      "https://technode.com/2026/11/04/jd-com-wins-conditional-eu-approval-for-2-5-billion-ceconomy-acquisition/",
+      "https://www.marketscreener.com/news/jd-com-secures-conditional-eu-approval-for-ceconomy-acquisition-ce785fd9d088fe24",
+      "https://www.retail-insight-network.com/news/eu-approves-jd-com-ceconomy-acquisition/"
+    ],
+    "deal": {
+      "acquirer": "JD.com",
+      "acquirer_country": "CN",
+      "target": "Ceconomy AG (MediaMarkt, Saturn)",
+      "target_country": "DE",
+      "sector": "Consumer electronics retail",
+      "authority": "European Commission (Foreign Subsidies Regulation)",
+      "outcome": "conditions",
+      "detail": "Commitments for ten years: intra-group transactions incl. financing on market terms; third-party retailers get warehousing, logistics and technology services on same terms as Ceconomy; independent trustee. Concern: possible Chinese financing, tax incentives and grants enabling a higher bid. Closing targeted by 12 Nov 2026."
+    }
+  },
+  {
+    "date": "2026-11-04",
+    "story_key": "uk-nsia-supreme-court-letterone-upp",
+    "headline": "Supreme Court hears LetterOne NSI Act appeal on 10 November",
+    "jurisdiction": "UK",
+    "what_was_said": "Watch list: hearing on 10 Nov 2026, first NSI Act case at the Supreme Court, on compensation for the forced sale of Upp.",
+    "sources": [
+      "https://supremecourt.uk/cases/uksc-2026-0012"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-04",
+    "story_key": "cn-rare-earth-controls-suspension-expiry-2026-11-10",
+    "headline": "China rare earth controls suspension expires 10 November",
+    "jurisdiction": "CN",
+    "what_was_said": "Watch list: suspension of October 2025 rare earth export controls expires 10 Nov 2026; no confirmed extension decision found.",
+    "sources": [
+      "https://www.mining-technology.com/news/china-rare-earth-export-pause-nears-expiry-amid-persistent-supply-concentration/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-04",
+    "story_key": "de-investitionspruefgesetz-draft",
+    "headline": "German draft Investment Screening Act consultation closes 12 November",
+    "jurisdiction": "DE",
+    "what_was_said": "Watch list: consultation on the draft Act and Ordinance closes 12 Nov 2026.",
+    "sources": [
+      "http://foreigninvestment.bakermckenzie.com/2026/10/27/germany-publishes-draft-standalone-investment-screening-act-and-ordinance/"
+    ],
+    "deal": null
   }
 ]

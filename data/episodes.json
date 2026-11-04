@@ -630,5 +630,51 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-11-04",
+    "tag": "ep-2026-11-04",
+    "title": "Brussels clears JD.com's Ceconomy deal with FSR commitments",
+    "summary": "The Commission conditionally cleared JD.com's Ceconomy acquisition under the FSR; watch list for 10 and 12 November.",
+    "file": "fdi-daily-2026-11-04.mp3",
+    "bytes": 743472,
+    "duration_s": 124,
+    "published": "Wed, 04 Nov 2026 13:06:10 +0000",
+    "items": [
+      {
+        "headline": "Commission conditionally clears JD.com's acquisition of Ceconomy under the FSR",
+        "jurisdiction": "EU",
+        "outcome": "conditions",
+        "sources": [
+          "https://technode.com/2026/11/04/jd-com-wins-conditional-eu-approval-for-2-5-billion-ceconomy-acquisition/",
+          "https://www.marketscreener.com/news/jd-com-secures-conditional-eu-approval-for-ceconomy-acquisition-ce785fd9d088fe24",
+          "https://www.retail-insight-network.com/news/eu-approves-jd-com-ceconomy-acquisition/"
+        ]
+      },
+      {
+        "headline": "Supreme Court hears LetterOne NSI Act appeal on 10 November",
+        "jurisdiction": "UK",
+        "outcome": null,
+        "sources": [
+          "https://supremecourt.uk/cases/uksc-2026-0012"
+        ]
+      },
+      {
+        "headline": "China rare earth controls suspension expires 10 November",
+        "jurisdiction": "CN",
+        "outcome": null,
+        "sources": [
+          "https://www.mining-technology.com/news/china-rare-earth-export-pause-nears-expiry-amid-persistent-supply-concentration/"
+        ]
+      },
+      {
+        "headline": "German draft Investment Screening Act consultation closes 12 November",
+        "jurisdiction": "DE",
+        "outcome": null,
+        "sources": [
+          "http://foreigninvestment.bakermckenzie.com/2026/10/27/germany-publishes-draft-standalone-investment-screening-act-and-ordinance/"
+        ]
+      }
+    ]
   }
 ]
