@@ -867,5 +867,38 @@
       "http://foreigninvestment.bakermckenzie.com/2026/10/27/germany-publishes-draft-standalone-investment-screening-act-and-ordinance/"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-11-05",
+    "story_key": "us-eo-13959-national-emergency-continuation-2026-11-03",
+    "headline": "US continues national emergency on securities investments financing certain Chinese companies",
+    "jurisdiction": "US",
+    "what_was_said": "A presidential notice dated 3 Nov 2026, published in the Federal Register on 5 Nov, continues the national emergency declared in Executive Order 13959 of 12 Nov 2020 beyond 12 Nov 2026. Seen only in search-result summary.",
+    "sources": [
+      "https://federalregister.gov/documents/2026/11/05/2026-22688/continuation-of-the-national-emergency-with-respect-to-the-threat-from-securities-investments-that"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-05",
+    "story_key": "us-sk-hynix-china-equipment-approval-held-up",
+    "headline": "Reuters: US holds up chipmaking equipment approval for SK Hynix China expansion",
+    "jurisdiction": "US",
+    "what_was_said": "According to Reuters (3 Nov 2026, citing sources), US officials have held up approval for American chipmaking equipment SK Hynix needs to expand production in China, creating a snag for its New York chip plans. Full article not opened.",
+    "sources": [
+      "https://money.usnews.com/investing/news/articles/2026-11-03/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-05",
+    "story_key": "us-bis-affiliates-rule-effective-2026-11-10",
+    "headline": "BIS Affiliates Rule scheduled to take effect 10 November unless suspension extended",
+    "jurisdiction": "US",
+    "what_was_said": "Watch list: a law-firm update dated early October says the BIS Affiliates Rule takes effect on 10 Nov 2026 unless the current suspension is extended; no confirmation found.",
+    "sources": [
+      "https://www.dechert.com/knowledge/onpoint/2026/10/national-security-regulation---investment-risk--quarterly-update.html"
+    ],
+    "deal": null
   }
 ]
