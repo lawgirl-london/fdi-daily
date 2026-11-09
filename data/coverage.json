@@ -955,5 +955,104 @@
       "http://foreigninvestment.bakermckenzie.com/2026/10/27/germany-publishes-draft-standalone-investment-screening-act-and-ordinance/"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-11-09",
+    "story_key": "us-bis-affiliates-rule-effective-2026-11-10",
+    "headline": "BIS extends Affiliates Rule suspension to 10 January 2027",
+    "jurisdiction": "US",
+    "what_was_said": "A BIS final rule filed for public inspection on 5 Nov 2026 takes effect 9 Nov and extends the suspension of the Affiliates Rule to 10 Jan 2027; timing change only; further extension or modification depends on US-China talks, per Nixon Peabody and Baker McKenzie.",
+    "sources": [
+      "https://www.nixonpeabody.com/insights/alerts/2026/11/06/bis-formally-suspends-the-affiliates-rule-until-january-10-2027",
+      "https://sanctionsnews.bakermckenzie.com/bis-extends-suspension-of-the-affiliates-rule-through-january-10-2027/",
+      "https://public-inspection.federalregister.gov/2026-22793.pdf"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-09",
+    "story_key": "cn-security-review-softbank-abb-robotics",
+    "headline": "SoftBank confirms notice of Chinese prohibition of ABB Robotics acquisition in China",
+    "jurisdiction": "CN",
+    "what_was_said": "SoftBank's 6 Nov update says it received notice on 4 Nov from China's foreign investment security review working mechanism office that the acquisition of ABB's robotics business in China was prohibited; it is in close dialogue with ABB and will disclose decisions as required.",
+    "sources": [
+      "https://group.softbank/en/news/press/20261106"
+    ],
+    "deal": {
+      "acquirer": "SoftBank Group",
+      "acquirer_country": "JP",
+      "target": "ABB Robotics (China business)",
+      "target_country": "CN",
+      "sector": "Industrial robotics / AI-related data",
+      "authority": "Office of the Working Mechanism for Foreign Investment Security Review (China); FT reports NDRC",
+      "outcome": "blocked",
+      "detail": "SoftBank received prohibition notice on 4 Nov 2026; no official reasons published; SoftBank and ABB say they are in close dialogue and working on the transaction; not declared terminated."
+    }
+  },
+  {
+    "date": "2026-11-09",
+    "story_key": "uk-nsia-supreme-court-letterone-upp",
+    "headline": "Supreme Court hears LetterOne NSI Act appeal on 10 November",
+    "jurisdiction": "UK",
+    "what_was_said": "Watch list: hearing on 10 Nov 2026, first NSI Act case at the Supreme Court, on compensation for the forced sale of Upp.",
+    "sources": [
+      "https://supremecourt.uk/cases/uksc-2026-0012"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-09",
+    "story_key": "cn-rare-earth-controls-suspension-expiry-2026-11-10",
+    "headline": "China rare earth controls suspension expires 10 November; no confirmed extension",
+    "jurisdiction": "CN",
+    "what_was_said": "Watch list: suspension expires 10 Nov 2026; no confirmed extension found as of 9 Nov.",
+    "sources": [
+      "https://www.mining-technology.com/news/china-rare-earth-export-pause-nears-expiry-amid-persistent-supply-concentration/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-09",
+    "story_key": "de-investitionspruefgesetz-draft",
+    "headline": "German draft Investment Screening Act consultation closes 12 November",
+    "jurisdiction": "DE",
+    "what_was_said": "Watch list: consultation on the draft Act and Ordinance closes 12 Nov 2026.",
+    "sources": [
+      "http://foreigninvestment.bakermckenzie.com/2026/10/27/germany-publishes-draft-standalone-investment-screening-act-and-ordinance/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-09",
+    "story_key": "eu-fsr-jd-com-ceconomy",
+    "headline": "JD.com aims to close Ceconomy acquisition by 12 November",
+    "jurisdiction": "EU",
+    "what_was_said": "Watch list: JD.com targets closing of Ceconomy acquisition by 12 Nov 2026 after conditional FSR clearance.",
+    "sources": [
+      "https://technode.com/2026/11/04/jd-com-wins-conditional-eu-approval-for-2-5-billion-ceconomy-acquisition/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-09",
+    "story_key": "cn-technology-export-catalogue-ai-biotech-solar-announcement-48",
+    "headline": "Comments close 15 November on China's proposed technology export catalogue additions",
+    "jurisdiction": "CN",
+    "what_was_said": "Watch list: comments on MOFCOM and MOST Announcement No. 48 close 15 Nov 2026.",
+    "sources": [
+      "https://www.geopolitechs.org/p/china-imposes-temporary-export-registration"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-09",
+    "story_key": "cn-drone-component-export-controls-announcement-49",
+    "headline": "China's drone component export controls extend to all destinations 18 November",
+    "jurisdiction": "CN",
+    "what_was_said": "Watch list: Announcement No. 49 controls take effect 18 Nov 2026.",
+    "sources": [
+      "https://www.techtimes.com/articles/329240/20261020/china-sets-48-volt-threshold-drone-motor-licenses-global-buyers-face-nov-18-deadline.htm"
+    ],
+    "deal": null
   }
 ]

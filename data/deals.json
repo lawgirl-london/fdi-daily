@@ -2,9 +2,9 @@
   {
     "story_key": "cn-security-review-softbank-abb-robotics",
     "first_reported": "2026-11-06",
-    "updated": "2026-11-06",
+    "updated": "2026-11-09",
     "jurisdiction": "CN",
-    "headline": "China's security review office prohibits SoftBank's acquisition of ABB Robotics in China",
+    "headline": "SoftBank confirms notice of Chinese prohibition of ABB Robotics acquisition in China",
     "acquirer": "SoftBank Group",
     "acquirer_country": "JP",
     "target": "ABB Robotics (China business)",
@@ -12,10 +12,11 @@
     "sector": "Industrial robotics / AI-related data",
     "authority": "Office of the Working Mechanism for Foreign Investment Security Review (China); FT reports NDRC",
     "outcome": "blocked",
-    "detail": "Prohibition covers the acquisition in China; reported concern is data leaving China for AI development; no official reasons published; ABB and SoftBank say discussions continue and the deal is not terminated.",
+    "detail": "SoftBank received prohibition notice on 4 Nov 2026; no official reasons published; SoftBank and ABB say they are in close dialogue and working on the transaction; not declared terminated.",
     "sources": [
       "https://www.pymnts.com/cpi-posts/china-blocks-softbanks-5-4-billion-abb-robotics-takeover/",
-      "https://www.visiontimes.com/2026/11/05/china-blocks-softbanks-5-4-billion-robotics-deal-as-us-tech-tensions-escalate.html"
+      "https://www.visiontimes.com/2026/11/05/china-blocks-softbanks-5-4-billion-robotics-deal-as-us-tech-tensions-escalate.html",
+      "https://group.softbank/en/news/press/20261106"
     ]
   },
   {
