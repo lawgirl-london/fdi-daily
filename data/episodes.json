@@ -693,5 +693,67 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-11-10",
+    "tag": "ep-2026-11-10",
+    "title": "China extends rare earth pause to January",
+    "summary": "A short Tuesday briefing: Beijing extends the suspension of its October 2025 rare earth export controls to the 10th of January, plus the week's deadlines.",
+    "file": "fdi-daily-2026-11-10.mp3",
+    "bytes": 714096,
+    "duration_s": 119,
+    "published": "Tue, 10 Nov 2026 16:28:49 +0000",
+    "items": [
+      {
+        "headline": "China extends rare earth export control suspension to 10 January 2027",
+        "jurisdiction": "CN",
+        "outcome": null,
+        "sources": [
+          "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/09/china-extends-suspension-of-rare-earth-export-controls-until-january",
+          "https://www.investing.com/news/commodities-news/china-extends-suspension-of-new-rare-earth-controls-until-january-5010878",
+          "https://mlq.ai/news/china-extends-its-pause-on-the-october-2025-rare-earth-export-controls-to-jan-10/"
+        ]
+      },
+      {
+        "headline": "Trump expected to meet Xi at APEC in Shenzhen later this month",
+        "jurisdiction": "GLOBAL",
+        "outcome": null,
+        "sources": [
+          "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/09/china-extends-suspension-of-rare-earth-export-controls-until-january"
+        ]
+      },
+      {
+        "headline": "German draft Investment Screening Act consultation closes 12 November",
+        "jurisdiction": "DE",
+        "outcome": null,
+        "sources": [
+          "http://foreigninvestment.bakermckenzie.com/2026/10/27/germany-publishes-draft-standalone-investment-screening-act-and-ordinance/"
+        ]
+      },
+      {
+        "headline": "JD.com aims to close Ceconomy acquisition by 12 November",
+        "jurisdiction": "EU",
+        "outcome": null,
+        "sources": [
+          "https://technode.com/2026/11/04/jd-com-wins-conditional-eu-approval-for-2-5-billion-ceconomy-acquisition/"
+        ]
+      },
+      {
+        "headline": "Comments close 15 November on China's technology export catalogue additions",
+        "jurisdiction": "CN",
+        "outcome": null,
+        "sources": [
+          "https://www.geopolitechs.org/p/china-imposes-temporary-export-registration"
+        ]
+      },
+      {
+        "headline": "China's drone component export controls extend to all destinations 18 November",
+        "jurisdiction": "CN",
+        "outcome": null,
+        "sources": [
+          "https://www.techtimes.com/articles/329240/20261020/china-sets-48-volt-threshold-drone-motor-licenses-global-buyers-face-nov-18-deadline.htm"
+        ]
+      }
+    ]
   }
 ]
