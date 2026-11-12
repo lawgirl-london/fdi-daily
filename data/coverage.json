@@ -1122,5 +1122,41 @@
       "https://www.techtimes.com/articles/329240/20261020/china-sets-48-volt-threshold-drone-motor-licenses-global-buyers-face-nov-18-deadline.htm"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-11-12",
+    "story_key": "us-coins-act-treasury-rules-deadline-2027-03-13",
+    "headline": "COINS Act proposed rule: comments close 7 December 2026",
+    "jurisdiction": "US",
+    "what_was_said": "Per Treasury's NPRM fact sheet and Ropes & Gray, comments on the COINS Act proposed rule close on 7 Dec 2026. No legal effect until a final rule sets an effective date; part 850 continues to apply; final rules due 13 Mar 2027.",
+    "sources": [
+      "https://home.treasury.gov/system/files/206/Fact-Sheet-FAQs-COINS-Act-NPRM.pdf",
+      "https://ropesgray.com/en/insights/alerts/2026/10/oisp-2-0-treasury-previews-broader-outbound-investment-regime-under-the-coins-act"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-12",
+    "story_key": "uk-nsia-supreme-court-letterone-upp",
+    "headline": "LetterOne NSI Act appeal listed for Supreme Court hearing on 10 November; no report of outcome found",
+    "jurisdiction": "UK",
+    "what_was_said": "The Supreme Court listing had the hearing on 10 Nov 2026 on compensation for the forced sale of Upp; permission granted 23 Mar 2026 after the Court of Appeal dismissed the appeal in Nov 2025. No report of the hearing or a judgment found.",
+    "sources": [
+      "https://supremecourt.uk/cases/uksc-2026-0012",
+      "https://www.mlex.com/mlex/articles/2545505"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-12",
+    "story_key": "de-investitionspruefgesetz-draft",
+    "headline": "German draft Investment Screening Act consultation closes 12 November",
+    "jurisdiction": "DE",
+    "what_was_said": "Consultation on the draft Act and Ordinance closes 12 Nov 2026; no association responses found yet.",
+    "sources": [
+      "http://foreigninvestment.bakermckenzie.com/2026/10/27/germany-publishes-draft-standalone-investment-screening-act-and-ordinance/",
+      "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/2026/20261022-investitionspruefungsrecht.html"
+    ],
+    "deal": null
   }
 ]
