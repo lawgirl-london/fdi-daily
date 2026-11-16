@@ -1,62 +1,5 @@
 [
   {
-    "date": "2026-10-15",
-    "tag": "ep-2026-10-15",
-    "title": "EU FDI screening notifications jump 40 per cent; European Council turns to China",
-    "summary": "The Commission's sixth annual FDI screening report shows a record rise in notifications, and EU leaders meet to discuss China trade.",
-    "file": "fdi-daily-2026-10-15.mp3",
-    "bytes": 765072,
-    "duration_s": 128,
-    "published": "Thu, 15 Oct 2026 08:50:33 +0000",
-    "items": [
-      {
-        "headline": "Commission publishes sixth annual FDI screening report: notifications up 40 per cent",
-        "jurisdiction": "EU",
-        "outcome": null,
-        "sources": [
-          "https://policy.trade.ec.europa.eu/news/screening-foreign-direct-investment-continues-advance-eu-security-and-public-order-2026-10-14_en"
-        ]
-      },
-      {
-        "headline": "European Council 15-16 October: draft conclusions on China",
-        "jurisdiction": "EU",
-        "outcome": null,
-        "sources": [
-          "https://www.usnews.com/news/world/articles/2026-10-15/eu-leaders-to-tackle-china-exports-energy-prices-budget-at-summit"
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2026-10-16",
-    "tag": "ep-2026-10-16",
-    "title": "European Council turns to China tools; Treasury reworks CFIUS process",
-    "summary": "EU leaders ask for new China trade instruments by year end, and Treasury details CFIUS pre-filing consultation and review checkpoints.",
-    "file": "fdi-daily-2026-10-16.mp3",
-    "bytes": 1192320,
-    "duration_s": 199,
-    "published": "Fri, 16 Oct 2026 05:51:25 +0000",
-    "items": [
-      {
-        "headline": "European Council on China: macroeconomic imbalances language, sector quotas, new instruments by year end",
-        "jurisdiction": "EU",
-        "outcome": null,
-        "sources": [
-          "https://www.euronews.com/2026/10/15/eu-summit-leaders-seek-fast-solutions-to-spiralling-energy-prices",
-          "https://en.sedaily.com/international/2026/10/16/eu-weighs-trade-kill-switch-to-block-chinese-goods"
-        ]
-      },
-      {
-        "headline": "Treasury outlines CFIUS pre-filing consultation, risk matrix and Operation Shot Clock",
-        "jurisdiction": "US",
-        "outcome": null,
-        "sources": [
-          "https://federalnewsnetwork.com/technology-main/2026/10/treasury-aims-to-preempt-foreign-investment-risks-to-national-security/"
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-10-19",
     "tag": "ep-2026-10-19",
     "title": "Poland reviews Skydance's TVN takeover; Belgium's first FDI block",
@@ -760,6 +703,77 @@
         "outcome": null,
         "sources": [
           "https://en.yenisafak.com/world/poland-reviews-tvn-takeover-by-trump-linked-media-giant-skydance-3724484"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "tag": "ep-2026-11-16",
+    "title": "LetterOne's Supreme Court appeal; the week's deadlines",
+    "summary": "A very quiet Monday: the UK Supreme Court has heard LetterOne's compensation appeal over the forced sale of Upp, plus the dates to watch this week and next.",
+    "file": "fdi-daily-2026-11-16.mp3",
+    "bytes": 921024,
+    "duration_s": 154,
+    "published": "Mon, 16 Nov 2026 13:48:45 +0000",
+    "items": [
+      {
+        "headline": "LetterOne NSI Act appeal heard in Supreme Court; no judgment reported",
+        "jurisdiction": "UK",
+        "outcome": null,
+        "sources": [
+          "https://www.mlex.com/mlex/articles/2548612",
+          "https://globalcompetitionreview.com/gcr-fic/article/russian-backed-investor-attacks-missing-policy-goals-in-uk-supreme-court-nsia-appeal",
+          "https://supremecourt.uk/cases/uksc-2026-0012"
+        ]
+      },
+      {
+        "headline": "SCMP: Trump and Xi expected to meet at APEC in Shenzhen",
+        "jurisdiction": "GLOBAL",
+        "outcome": null,
+        "sources": [
+          "https://www.scmp.com/economy/china-economy/article/3373904/xi-and-trumps-apec-meeting-whats-hold-and-whats-table"
+        ]
+      },
+      {
+        "headline": "China's drone component export controls extend to all destinations 18 November",
+        "jurisdiction": "CN",
+        "outcome": null,
+        "sources": [
+          "https://www.techtimes.com/articles/329240/20261020/china-sets-48-volt-threshold-drone-motor-licenses-global-buyers-face-nov-18-deadline.htm"
+        ]
+      },
+      {
+        "headline": "Comments close 24 November on MOFCOM draft trade secrets provisions",
+        "jurisdiction": "CN",
+        "outcome": null,
+        "sources": [
+          "https://sanctionsnews.bakermckenzie.com/china-proposes-new-sanctions-tool-in-response-to-trade-secret-theft/"
+        ]
+      },
+      {
+        "headline": "COINS Act proposed rule: comments close 7 December; final rules due 13 March 2027",
+        "jurisdiction": "US",
+        "outcome": null,
+        "sources": [
+          "https://home.treasury.gov/system/files/206/Fact-Sheet-FAQs-COINS-Act-NPRM.pdf"
+        ]
+      },
+      {
+        "headline": "Poland's TVN review decision due around mid-January",
+        "jurisdiction": "PL",
+        "outcome": null,
+        "sources": [
+          "https://en.yenisafak.com/world/poland-reviews-tvn-takeover-by-trump-linked-media-giant-skydance-3724484"
+        ]
+      },
+      {
+        "headline": "BIS Affiliates Rule suspension and China rare earth suspension both run to 10 January 2027",
+        "jurisdiction": "US",
+        "outcome": null,
+        "sources": [
+          "https://www.nixonpeabody.com/insights/alerts/2026/11/06/bis-formally-suspends-the-affiliates-rule-until-january-10-2027",
+          "https://www.investing.com/news/commodities-news/china-extends-suspension-of-new-rare-earth-controls-until-january-5010878"
         ]
       }
     ]

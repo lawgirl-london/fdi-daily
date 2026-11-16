@@ -1189,5 +1189,85 @@
       "https://en.yenisafak.com/world/poland-reviews-tvn-takeover-by-trump-linked-media-giant-skydance-3724484"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-11-16",
+    "story_key": "uk-nsia-supreme-court-letterone-upp",
+    "headline": "LetterOne NSI Act appeal heard in Supreme Court; no judgment reported",
+    "jurisdiction": "UK",
+    "what_was_said": "Per MLex, a government lawyer urged the Supreme Court to resist LetterOne's claim for compensation beyond the sale price for the forced sale of Upp; GCR reports LetterOne argued the government identified no policy objective threatened by compensating it. First NSI Act case at the Supreme Court; no judgment found.",
+    "sources": [
+      "https://www.mlex.com/mlex/articles/2548612",
+      "https://globalcompetitionreview.com/gcr-fic/article/russian-backed-investor-attacks-missing-policy-goals-in-uk-supreme-court-nsia-appeal",
+      "https://supremecourt.uk/cases/uksc-2026-0012"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-16",
+    "story_key": "global-trump-shenzhen-apec-xi-meeting-2026-11",
+    "headline": "SCMP: Trump and Xi expected to meet at APEC in Shenzhen",
+    "jurisdiction": "GLOBAL",
+    "what_was_said": "According to the SCMP, Xi and Trump are expected to meet at APEC in Shenzhen, their third meeting this year; exact date unconfirmed.",
+    "sources": [
+      "https://www.scmp.com/economy/china-economy/article/3373904/xi-and-trumps-apec-meeting-whats-hold-and-whats-table"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-16",
+    "story_key": "cn-drone-component-export-controls-announcement-49",
+    "headline": "China's drone component export controls extend to all destinations 18 November",
+    "jurisdiction": "CN",
+    "what_was_said": "Watch list: Announcement No. 49 controls take effect 18 Nov 2026 for all destinations.",
+    "sources": [
+      "https://www.techtimes.com/articles/329240/20261020/china-sets-48-volt-threshold-drone-motor-licenses-global-buyers-face-nov-18-deadline.htm"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-16",
+    "story_key": "cn-mofcom-draft-trade-secrets-special-provisions",
+    "headline": "Comments close 24 November on MOFCOM draft trade secrets provisions",
+    "jurisdiction": "CN",
+    "what_was_said": "Watch list: comments on the draft allowing restrictions on trade, new investment and entry for foreign entities close 24 Nov 2026.",
+    "sources": [
+      "https://sanctionsnews.bakermckenzie.com/china-proposes-new-sanctions-tool-in-response-to-trade-secret-theft/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-16",
+    "story_key": "us-coins-act-treasury-rules-deadline-2027-03-13",
+    "headline": "COINS Act proposed rule: comments close 7 December; final rules due 13 March 2027",
+    "jurisdiction": "US",
+    "what_was_said": "Watch list: comments close 7 Dec 2026; final rules due 13 Mar 2027.",
+    "sources": [
+      "https://home.treasury.gov/system/files/206/Fact-Sheet-FAQs-COINS-Act-NPRM.pdf"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-16",
+    "story_key": "pl-tvn-skydance-investment-control-review",
+    "headline": "Poland's TVN review decision due around mid-January",
+    "jurisdiction": "PL",
+    "what_was_said": "Watch list: 90 days from 14 Oct 2026 for the Ministry of State Assets to decide.",
+    "sources": [
+      "https://en.yenisafak.com/world/poland-reviews-tvn-takeover-by-trump-linked-media-giant-skydance-3724484"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-16",
+    "story_key": "us-bis-affiliates-rule-effective-2026-11-10",
+    "headline": "BIS Affiliates Rule suspension and China rare earth suspension both run to 10 January 2027",
+    "jurisdiction": "US",
+    "what_was_said": "Watch list: both suspensions expire on 10 Jan 2027.",
+    "sources": [
+      "https://www.nixonpeabody.com/insights/alerts/2026/11/06/bis-formally-suspends-the-affiliates-rule-until-january-10-2027",
+      "https://www.investing.com/news/commodities-news/china-extends-suspension-of-new-rare-earth-controls-until-january-5010878"
+    ],
+    "deal": null
   }
 ]
