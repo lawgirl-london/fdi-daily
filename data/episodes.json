@@ -777,5 +777,93 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-11-18",
+    "tag": "ep-2026-11-18",
+    "title": "EU widens FDI cooperation list; US tightens AI chip exports ahead of Trump-Xi talks",
+    "summary": "A short episode: the EU's updated list of projects of Union interest for FDI screening, new US AI chip export licensing, and the Shenzhen APEC summit.",
+    "file": "fdi-daily-2026-11-18.mp3",
+    "bytes": 1296000,
+    "duration_s": 216,
+    "published": "Wed, 18 Nov 2026 14:16:48 +0000",
+    "items": [
+      {
+        "headline": "Delegated Regulation 2026/2565 updates EU projects of Union interest list for FDI screening",
+        "jurisdiction": "EU",
+        "outcome": null,
+        "sources": [
+          "https://eulawlive.com/oj-commission-delegated-regulation-expanding-list-of-projects-covered-by-eu-foreign-investment-screening-cooperation/"
+        ]
+      },
+      {
+        "headline": "Australia reappoints Bruce Miller as FIRB chair, Carolyn Kay deputy",
+        "jurisdiction": "AU",
+        "outcome": null,
+        "sources": [
+          "https://www.capitalbrief.com/briefing/bruce-miller-reappointed-as-firb-chair-carolyn-kay-named-deputy-f7455599-1130-452b-a0a5-83f63ec47653/",
+          "https://www.financialstandard.com.au/news/government-reappoints-firb-chair-179814605"
+        ]
+      },
+      {
+        "headline": "US expands AI chip export licensing to Southeast Asia and Brazil; China threatens countermeasures",
+        "jurisdiction": "US",
+        "outcome": null,
+        "sources": [
+          "https://fortune.com/2026/11/18/trump-xi-putin-shenzhen-apec-trade-truce-export-controls/"
+        ]
+      },
+      {
+        "headline": "Trump arrives in Shenzhen; Xi calls for lower investment barriers; meeting expected 19 November",
+        "jurisdiction": "GLOBAL",
+        "outcome": null,
+        "sources": [
+          "https://edition.cnn.com/2026/11/17/politics/live-news/trump-visit-china-philippines",
+          "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
+          "https://fortune.com/2026/11/18/trump-xi-putin-shenzhen-apec-trade-truce-export-controls/"
+        ]
+      },
+      {
+        "headline": "South Korea and China declare de facto conclusion of FTA upgrade on services and investment",
+        "jurisdiction": "GLOBAL",
+        "outcome": null,
+        "sources": [
+          "https://fortune.com/2026/11/18/trump-xi-putin-shenzhen-apec-trade-truce-export-controls/",
+          "https://mlq.ai/news/trump-arrives-in-shenzhen-for-apec-as-xi-tells-south-koreas-lee-he-backs-renewed-us-north-korea-talks/"
+        ]
+      },
+      {
+        "headline": "China's drone component export controls take effect today",
+        "jurisdiction": "CN",
+        "outcome": null,
+        "sources": [
+          "https://www.techtimes.com/articles/329240/20261020/china-sets-48-volt-threshold-drone-motor-licenses-global-buyers-face-nov-18-deadline.htm"
+        ]
+      },
+      {
+        "headline": "Comments close 24 November on MOFCOM trade secrets draft",
+        "jurisdiction": "CN",
+        "outcome": null,
+        "sources": [
+          "https://sanctionsnews.bakermckenzie.com/china-proposes-new-sanctions-tool-in-response-to-trade-secret-theft/"
+        ]
+      },
+      {
+        "headline": "COINS Act proposed rule comments close 7 December",
+        "jurisdiction": "US",
+        "outcome": null,
+        "sources": [
+          "https://home.treasury.gov/system/files/206/Fact-Sheet-FAQs-COINS-Act-NPRM.pdf"
+        ]
+      },
+      {
+        "headline": "BIS Affiliates Rule and rare earth suspensions both expire 10 January 2027",
+        "jurisdiction": "US",
+        "outcome": null,
+        "sources": [
+          "https://www.nixonpeabody.com/insights/alerts/2026/11/06/bis-formally-suspends-the-affiliates-rule-until-january-10-2027"
+        ]
+      }
+    ]
   }
 ]

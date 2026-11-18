@@ -1269,5 +1269,108 @@
       "https://www.investing.com/news/commodities-news/china-extends-suspension-of-new-rare-earth-controls-until-january-5010878"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-11-18",
+    "story_key": "eu-delegated-regulation-2026-2565-projects-of-union-interest",
+    "headline": "Delegated Regulation 2026/2565 updates EU projects of Union interest list for FDI screening",
+    "jurisdiction": "EU",
+    "what_was_said": "Published in the Official Journal on 17 Nov 2026, adopted 8 Sep, in force 7 Dec 2026; replaces the annex to Regulation 2019/452 with 24 entries across defence, strategic technologies, infrastructure and industrial policy, including STEP and IRIS squared. Full list not seen.",
+    "sources": [
+      "https://eulawlive.com/oj-commission-delegated-regulation-expanding-list-of-projects-covered-by-eu-foreign-investment-screening-cooperation/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-18",
+    "story_key": "au-firb-chair-miller-reappointed",
+    "headline": "Australia reappoints Bruce Miller as FIRB chair, Carolyn Kay deputy",
+    "jurisdiction": "AU",
+    "what_was_said": "Government reappointed Bruce Miller as FIRB chair and named Carolyn Kay deputy chair; reports differ on 16 or 17 Nov.",
+    "sources": [
+      "https://www.capitalbrief.com/briefing/bruce-miller-reappointed-as-firb-chair-carolyn-kay-named-deputy-f7455599-1130-452b-a0a5-83f63ec47653/",
+      "https://www.financialstandard.com.au/news/government-reappoints-firb-chair-179814605"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-18",
+    "story_key": "us-bis-ai-chip-export-licensing-expansion-2026-11-16",
+    "headline": "US expands AI chip export licensing to Southeast Asia and Brazil; China threatens countermeasures",
+    "jurisdiction": "US",
+    "what_was_said": "Per Fortune, on 16 Nov 2026 Commerce expanded licence requirements for advanced AI chips to Singapore, Malaysia, Thailand, Indonesia and Brazil and to data centre operators serving Chinese clients; Beijing said it will take countermeasures if the US persists.",
+    "sources": [
+      "https://fortune.com/2026/11/18/trump-xi-putin-shenzhen-apec-trade-truce-export-controls/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-18",
+    "story_key": "global-trump-shenzhen-apec-xi-meeting-2026-11",
+    "headline": "Trump arrives in Shenzhen; Xi calls for lower investment barriers; meeting expected 19 November",
+    "jurisdiction": "GLOBAL",
+    "what_was_said": "Trump arrived in Shenzhen on 17 Nov and was greeted by Xi (CNN); Xi called for lower trade and investment barriers (CNBC); Trump-Xi meeting expected 19 Nov, focused on implementing the truce expiring 10 Jan.",
+    "sources": [
+      "https://edition.cnn.com/2026/11/17/politics/live-news/trump-visit-china-philippines",
+      "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
+      "https://fortune.com/2026/11/18/trump-xi-putin-shenzhen-apec-trade-truce-export-controls/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-18",
+    "story_key": "global-korea-china-fta-services-investment-conclusion",
+    "headline": "South Korea and China declare de facto conclusion of FTA upgrade on services and investment",
+    "jurisdiction": "GLOBAL",
+    "what_was_said": "At APEC, Seoul and Beijing declared the de facto conclusion of talks, under way since 2018, to extend their FTA to services and investment.",
+    "sources": [
+      "https://fortune.com/2026/11/18/trump-xi-putin-shenzhen-apec-trade-truce-export-controls/",
+      "https://mlq.ai/news/trump-arrives-in-shenzhen-for-apec-as-xi-tells-south-koreas-lee-he-backs-renewed-us-north-korea-talks/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-18",
+    "story_key": "cn-drone-component-export-controls-announcement-49",
+    "headline": "China's drone component export controls take effect today",
+    "jurisdiction": "CN",
+    "what_was_said": "Watch list: Announcement No. 49 controls take effect 18 Nov 2026 for all destinations.",
+    "sources": [
+      "https://www.techtimes.com/articles/329240/20261020/china-sets-48-volt-threshold-drone-motor-licenses-global-buyers-face-nov-18-deadline.htm"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-18",
+    "story_key": "cn-mofcom-draft-trade-secrets-special-provisions",
+    "headline": "Comments close 24 November on MOFCOM trade secrets draft",
+    "jurisdiction": "CN",
+    "what_was_said": "Watch list: comments close 24 Nov 2026.",
+    "sources": [
+      "https://sanctionsnews.bakermckenzie.com/china-proposes-new-sanctions-tool-in-response-to-trade-secret-theft/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-18",
+    "story_key": "us-coins-act-treasury-rules-deadline-2027-03-13",
+    "headline": "COINS Act proposed rule comments close 7 December",
+    "jurisdiction": "US",
+    "what_was_said": "Watch list: comments close 7 Dec 2026.",
+    "sources": [
+      "https://home.treasury.gov/system/files/206/Fact-Sheet-FAQs-COINS-Act-NPRM.pdf"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-18",
+    "story_key": "us-bis-affiliates-rule-effective-2026-11-10",
+    "headline": "BIS Affiliates Rule and rare earth suspensions both expire 10 January 2027",
+    "jurisdiction": "US",
+    "what_was_said": "Watch list: both suspensions expire on 10 Jan 2027.",
+    "sources": [
+      "https://www.nixonpeabody.com/insights/alerts/2026/11/06/bis-formally-suspends-the-affiliates-rule-until-january-10-2027"
+    ],
+    "deal": null
   }
 ]
