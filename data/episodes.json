@@ -1,58 +1,5 @@
 [
   {
-    "date": "2026-10-19",
-    "tag": "ep-2026-10-19",
-    "title": "Poland reviews Skydance's TVN takeover; Belgium's first FDI block",
-    "summary": "Poland opens a retrospective investment control review of Skydance's indirect takeover of TVN, and Belgium's first FDI prohibition (NHV) comes into focus.",
-    "file": "fdi-daily-2026-10-19.mp3",
-    "bytes": 1130832,
-    "duration_s": 188,
-    "published": "Mon, 19 Oct 2026 08:54:53 +0000",
-    "items": [
-      {
-        "headline": "Poland opens investment control review of Skydance's indirect takeover of TVN",
-        "jurisdiction": "PL",
-        "outcome": "pending",
-        "sources": [
-          "https://en.yenisafak.com/world/poland-reviews-tvn-takeover-by-trump-linked-media-giant-skydance-3724484"
-        ]
-      },
-      {
-        "headline": "Belgium's first FDI prohibition: NHV / GD Helicopter Finance; third annual report",
-        "jurisdiction": "BE",
-        "outcome": "blocked",
-        "sources": [
-          "https://mondaq.com/inward-foreign-investment/1856068/belgian-fdi-screening-in-year-three-rise-in-filings-and-first-blocked-transaction",
-          "https://newmobility.news/en/2026/08/10/belgium-blocks-chinese-acquisition-of-helicopter-operator-nhv/"
-        ]
-      },
-      {
-        "headline": "China's rare earth export control suspension expires 10 November",
-        "jurisdiction": "CN",
-        "outcome": null,
-        "sources": [
-          "https://www.cirs-group.com/en/chemicals/china-temporarily-suspends-export-controls-on-key-raw-materials-including-rare-earths-lithium-batteries-and-diamond"
-        ]
-      },
-      {
-        "headline": "FSR review of JD.com / Ceconomy: provisional deadline 4 November",
-        "jurisdiction": "EU",
-        "outcome": null,
-        "sources": [
-          "https://zavodsky.org/en/intelligence/enforcement/jd-com-ceconomy-fsr-100253/"
-        ]
-      },
-      {
-        "headline": "UK Supreme Court hears LetterOne NSI Act appeal on 10 November",
-        "jurisdiction": "UK",
-        "outcome": null,
-        "sources": [
-          "https://supremecourt.uk/cases/uksc-2026-0012"
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-10-20",
     "tag": "ep-2026-10-20",
     "title": "Ireland's compromise text on Industrial Accelerator Act investment conditions",
@@ -862,6 +809,51 @@
         "outcome": null,
         "sources": [
           "https://www.nixonpeabody.com/insights/alerts/2026/11/06/bis-formally-suspends-the-affiliates-rule-until-january-10-2027"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-11-19",
+    "tag": "ep-2026-11-19",
+    "title": "Netherlands widens Vifo screening to AI and biotech; Australian FIRB approvals figures",
+    "summary": "The Netherlands extends mandatory screening to six technologies from January 2027, and Australia publishes FIRB approval statistics.",
+    "file": "fdi-daily-2026-11-19.mp3",
+    "bytes": 1013904,
+    "duration_s": 169,
+    "published": "Thu, 19 Nov 2026 17:25:49 +0000",
+    "items": [
+      {
+        "headline": "Netherlands adds six technologies to mandatory Vifo Act screening from 1 January 2027",
+        "jurisdiction": "NL",
+        "outcome": null,
+        "sources": [
+          "https://www.jonesday.com/en/insights/2026/11/dutch-fdi-screening-expands-to-six-new-technologies-on-january-1-2027",
+          "https://www.concurrences.com/en/bulletin/news-issues/november-2026-ii/the-dutch-government-extends-mandatory-foreign-investment-screening-to-6-highly"
+        ]
+      },
+      {
+        "headline": "Australian Treasury release: FIRB approved A$278bn in 2025-26",
+        "jurisdiction": "AU",
+        "outcome": null,
+        "sources": [
+          "https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/foreign-investment-review-board-appointments"
+        ]
+      },
+      {
+        "headline": "Trump-Xi APEC meeting due today; few deliverables expected",
+        "jurisdiction": "GLOBAL",
+        "outcome": null,
+        "sources": [
+          "https://www.scmp.com/news/china/diplomacy/article/3373969/xi-and-trump-set-apec-talks-major-deliverables-expected-wait-g20"
+        ]
+      },
+      {
+        "headline": "COINS Act proposed rule comments close 7 December",
+        "jurisdiction": "US",
+        "outcome": null,
+        "sources": [
+          "https://home.treasury.gov/system/files/206/Fact-Sheet-FAQs-COINS-Act-NPRM.pdf"
         ]
       }
     ]

@@ -1372,5 +1372,50 @@
       "https://www.nixonpeabody.com/insights/alerts/2026/11/06/bis-formally-suspends-the-affiliates-rule-until-january-10-2027"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-11-19",
+    "story_key": "nl-vifo-act-six-highly-sensitive-technologies-decree-2027",
+    "headline": "Netherlands adds six technologies to mandatory Vifo Act screening from 1 January 2027",
+    "jurisdiction": "NL",
+    "what_was_said": "Amending decree adopted 28 Oct 2026 adds biotechnology, AI, advanced materials, nanotechnology, sensor and navigation technology and medical nuclear technology to highly sensitive technologies; notification on acquiring significant influence (generally 10 per cent of votes); in force 1 Jan 2027.",
+    "sources": [
+      "https://www.jonesday.com/en/insights/2026/11/dutch-fdi-screening-expands-to-six-new-technologies-on-january-1-2027",
+      "https://www.concurrences.com/en/bulletin/news-issues/november-2026-ii/the-dutch-government-extends-mandatory-foreign-investment-screening-to-6-highly"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-19",
+    "story_key": "au-firb-chair-miller-reappointed",
+    "headline": "Australian Treasury release: FIRB approved A$278bn in 2025-26",
+    "jurisdiction": "AU",
+    "what_was_said": "Treasurer's 16 Nov release: A$278bn approved in 2025-26, A$87bn in the last quarter, up 60 per cent since 2022, half of applications processed within 30 days; Kay's term starts 20 Nov 2026, Miller's new term 6 Apr 2027.",
+    "sources": [
+      "https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/foreign-investment-review-board-appointments"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-19",
+    "story_key": "global-trump-shenzhen-apec-xi-meeting-2026-11",
+    "headline": "Trump-Xi APEC meeting due today; few deliverables expected",
+    "jurisdiction": "GLOBAL",
+    "what_was_said": "Previews expect few concrete deliverables from the Shenzhen talks on 19 Nov, with major outcomes more likely to wait for the G20 in December; no readout yet.",
+    "sources": [
+      "https://www.scmp.com/news/china/diplomacy/article/3373969/xi-and-trump-set-apec-talks-major-deliverables-expected-wait-g20"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-19",
+    "story_key": "us-coins-act-treasury-rules-deadline-2027-03-13",
+    "headline": "COINS Act proposed rule comments close 7 December",
+    "jurisdiction": "US",
+    "what_was_said": "Watch list: comments close 7 Dec 2026.",
+    "sources": [
+      "https://home.treasury.gov/system/files/206/Fact-Sheet-FAQs-COINS-Act-NPRM.pdf"
+    ],
+    "deal": null
   }
 ]
