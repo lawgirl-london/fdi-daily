@@ -1417,5 +1417,83 @@
       "https://home.treasury.gov/system/files/206/Fact-Sheet-FAQs-COINS-Act-NPRM.pdf"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-11-20",
+    "story_key": "mx-foreign-investment-law-national-security-reform",
+    "headline": "Mexico's national security screening regime takes effect 20 November",
+    "jurisdiction": "MX",
+    "what_was_said": "White and Case reports the new national security title of the Foreign Investment Law takes effect 20 Nov 2026 with a 45 business day review period; mandatory filing is not operational until the asset-value threshold is published. Approved text excludes affirmative silence and lets the CNIE require mitigation.",
+    "sources": [
+      "https://www.whitecase.com/insight-alert/mexico-fdi-new-national-security-screening-foreign-investment-effective-november-20",
+      "https://basham.com.mx/mexicos-congress-approves-new-national-security-screening-regime-for-foreign-investment/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-20",
+    "story_key": "global-trump-shenzhen-apec-xi-meeting-2026-11",
+    "headline": "Shenzhen Trump-Xi talks produce no concrete trade outcomes",
+    "jurisdiction": "GLOBAL",
+    "what_was_said": "Per CNBC, no public outcome on tariffs, rare earths or chip controls; Nvidia raised briefly; the trilateral with Putin issued a four-point statement on nuclear risk and oil output.",
+    "sources": [
+      "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-20",
+    "story_key": "cn-mofcom-draft-trade-secrets-special-provisions",
+    "headline": "Watch: MOFCOM trade secrets draft comments close 24 November",
+    "jurisdiction": "CN",
+    "what_was_said": "Comments close 24 Nov 2026 on the draft allowing restrictions on trade, new investment and entry for foreign entities.",
+    "sources": [
+      "https://www.scmp.com/economy/policy/article/3372161/china-drafts-rules-protect-trade-secrets-foreign-entities"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-20",
+    "story_key": "us-coins-act-treasury-rules-deadline-2027-03-13",
+    "headline": "Watch: COINS Act proposed rule comments close 7 December",
+    "jurisdiction": "US",
+    "what_was_said": "Comments close 7 Dec 2026.",
+    "sources": [
+      "https://home.treasury.gov/system/files/206/Fact-Sheet-FAQs-COINS-Act-NPRM.pdf"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-20",
+    "story_key": "eu-delegated-regulation-2026-2565-projects-of-union-interest",
+    "headline": "Watch: EU projects of Union interest delegated regulation in force 7 December",
+    "jurisdiction": "EU",
+    "what_was_said": "In force 7 Dec 2026.",
+    "sources": [
+      "https://eulawlive.com/oj-commission-delegated-regulation-expanding-list-of-projects-covered-by-eu-foreign-investment-screening-cooperation/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-20",
+    "story_key": "nl-vifo-act-six-highly-sensitive-technologies-decree-2027",
+    "headline": "Watch: Vifo Act extension to six technologies from 1 January 2027",
+    "jurisdiction": "NL",
+    "what_was_said": "Mandatory screening extends to six further technologies on 1 Jan 2027.",
+    "sources": [
+      "https://www.jonesday.com/en/insights/2026/11/dutch-fdi-screening-expands-to-six-new-technologies-on-january-1-2027"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-20",
+    "story_key": "pl-tvn-skydance-investment-control-review",
+    "headline": "Watch: Polish TVN decision due about 12 January",
+    "jurisdiction": "PL",
+    "what_was_said": "Ninety days from 14 Oct 2026 for the Ministry of State Assets to decide, roughly 12 Jan 2027 by calculation.",
+    "sources": [
+      "https://en.yenisafak.com/world/poland-reviews-tvn-takeover-by-trump-linked-media-giant-skydance-3724484"
+    ],
+    "deal": null
   }
 ]

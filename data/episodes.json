@@ -1,26 +1,5 @@
 [
   {
-    "date": "2026-10-20",
-    "tag": "ep-2026-10-20",
-    "title": "Ireland's compromise text on Industrial Accelerator Act investment conditions",
-    "summary": "A quiet day: Ireland has circulated a draft compromise on the foreign-investment conditions in the EU's proposed Industrial Accelerator Act.",
-    "file": "fdi-daily-2026-10-20.mp3",
-    "bytes": 526464,
-    "duration_s": 88,
-    "published": "Tue, 20 Oct 2026 08:49:16 +0000",
-    "items": [
-      {
-        "headline": "Ireland proposes exemptions and shorter duration for Industrial Accelerator Act investment conditions",
-        "jurisdiction": "EU",
-        "outcome": null,
-        "sources": [
-          "https://www.mlex.com/mlex/articles/2539360/ireland-suggests-exemptions-from-foreign-investment-conditions-under-draft-industry-rules",
-          "https://www.jonesday.com/de/insights/2026/09/what-the-european-unions-proposed-industrial-accelerator-act-means-for-foreign-investors"
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-10-21",
     "tag": "ep-2026-10-21",
     "title": "China tightens technology and drone export controls",
@@ -854,6 +833,75 @@
         "outcome": null,
         "sources": [
           "https://home.treasury.gov/system/files/206/Fact-Sheet-FAQs-COINS-Act-NPRM.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-11-20",
+    "tag": "ep-2026-11-20",
+    "title": "Mexico's national security screening takes effect; Shenzhen summit yields little",
+    "summary": "A short Friday edition: Mexico's new national security screening title enters into force, the Trump–Xi talks in Shenzhen produce no concrete trade outcomes, and a watch list of coming deadlines.",
+    "file": "fdi-daily-2026-11-20.mp3",
+    "bytes": 995040,
+    "duration_s": 166,
+    "published": "Fri, 20 Nov 2026 14:10:02 +0000",
+    "items": [
+      {
+        "headline": "Mexico's national security screening regime takes effect 20 November",
+        "jurisdiction": "MX",
+        "outcome": null,
+        "sources": [
+          "https://www.whitecase.com/insight-alert/mexico-fdi-new-national-security-screening-foreign-investment-effective-november-20",
+          "https://basham.com.mx/mexicos-congress-approves-new-national-security-screening-regime-for-foreign-investment/"
+        ]
+      },
+      {
+        "headline": "Shenzhen Trump-Xi talks produce no concrete trade outcomes",
+        "jurisdiction": "GLOBAL",
+        "outcome": null,
+        "sources": [
+          "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html"
+        ]
+      },
+      {
+        "headline": "Watch: MOFCOM trade secrets draft comments close 24 November",
+        "jurisdiction": "CN",
+        "outcome": null,
+        "sources": [
+          "https://www.scmp.com/economy/policy/article/3372161/china-drafts-rules-protect-trade-secrets-foreign-entities"
+        ]
+      },
+      {
+        "headline": "Watch: COINS Act proposed rule comments close 7 December",
+        "jurisdiction": "US",
+        "outcome": null,
+        "sources": [
+          "https://home.treasury.gov/system/files/206/Fact-Sheet-FAQs-COINS-Act-NPRM.pdf"
+        ]
+      },
+      {
+        "headline": "Watch: EU projects of Union interest delegated regulation in force 7 December",
+        "jurisdiction": "EU",
+        "outcome": null,
+        "sources": [
+          "https://eulawlive.com/oj-commission-delegated-regulation-expanding-list-of-projects-covered-by-eu-foreign-investment-screening-cooperation/"
+        ]
+      },
+      {
+        "headline": "Watch: Vifo Act extension to six technologies from 1 January 2027",
+        "jurisdiction": "NL",
+        "outcome": null,
+        "sources": [
+          "https://www.jonesday.com/en/insights/2026/11/dutch-fdi-screening-expands-to-six-new-technologies-on-january-1-2027"
+        ]
+      },
+      {
+        "headline": "Watch: Polish TVN decision due about 12 January",
+        "jurisdiction": "PL",
+        "outcome": null,
+        "sources": [
+          "https://en.yenisafak.com/world/poland-reviews-tvn-takeover-by-trump-linked-media-giant-skydance-3724484"
         ]
       }
     ]
