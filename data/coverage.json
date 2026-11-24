@@ -1495,5 +1495,71 @@
       "https://en.yenisafak.com/world/poland-reviews-tvn-takeover-by-trump-linked-media-giant-skydance-3724484"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-11-24",
+    "story_key": "hu-fdi-screening-draft-bill-narrowing-2027",
+    "headline": "Hungary drafts a narrower FDI screening regime from 1 January 2027",
+    "jurisdiction": "HU",
+    "what_was_said": "Per Baker McKenzie (9 November), a draft bill would repeal the FDI chapter of Act L of 2025 from 1 January 2027 and re-enact a narrower regime: EU/EEA/Swiss investors excluded, only direct majority share deals, six sectors instead of 63, thresholds of HUF 180bn net revenue or HUF 10bn deal value. Still under consultation.",
+    "sources": [
+      "https://www.bakermckenzie.com/en/insight/publications/2026/11/hungary-government-proposes-narrower-fdi-screening"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-24",
+    "story_key": "us-coins-act-treasury-rules-deadline-2027-03-13",
+    "headline": "Watch: COINS Act proposed rule comments close 7 December",
+    "jurisdiction": "US",
+    "what_was_said": "Comments on the Treasury's proposed COINS Act rule close on 7 December.",
+    "sources": [
+      "https://home.treasury.gov/system/files/206/Fact-Sheet-FAQs-COINS-Act-NPRM.pdf"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-24",
+    "story_key": "eu-delegated-regulation-2026-2565-projects-of-union-interest",
+    "headline": "Watch: EU projects of Union interest delegated regulation in force 7 December",
+    "jurisdiction": "EU",
+    "what_was_said": "The delegated regulation updating the projects of Union interest list enters into force on 7 December.",
+    "sources": [
+      "https://eulawlive.com/oj-commission-delegated-regulation-expanding-list-of-projects-covered-by-eu-foreign-investment-screening-cooperation/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-24",
+    "story_key": "nl-vifo-act-six-highly-sensitive-technologies-decree-2027",
+    "headline": "Watch: Vifo Act extension to six technologies from 1 January 2027",
+    "jurisdiction": "NL",
+    "what_was_said": "Mandatory Vifo Act screening extends to six highly sensitive technologies from 1 January 2027.",
+    "sources": [
+      "https://www.jonesday.com/en/insights/2026/11/dutch-fdi-screening-expands-to-six-new-technologies-on-january-1-2027"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-24",
+    "story_key": "us-bis-affiliates-rule-effective-2026-11-10",
+    "headline": "Watch: BIS Affiliates Rule and China rare earth suspensions expire 10 January 2027",
+    "jurisdiction": "US",
+    "what_was_said": "Both suspensions run to 10 January 2027.",
+    "sources": [
+      "https://www.nixonpeabody.com/insights/alerts/2026/11/06/bis-formally-suspends-the-affiliates-rule-until-january-10-2027"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-24",
+    "story_key": "pl-tvn-skydance-investment-control-review",
+    "headline": "Watch: Polish TVN decision due about 12 January",
+    "jurisdiction": "PL",
+    "what_was_said": "Poland's decision on Skydance's indirect takeover of TVN is due around 12 January.",
+    "sources": [
+      "https://en.yenisafak.com/world/poland-reviews-tvn-takeover-by-trump-linked-media-giant-skydance-3724484"
+    ],
+    "deal": null
   }
 ]

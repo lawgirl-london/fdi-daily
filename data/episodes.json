@@ -1,71 +1,5 @@
 [
   {
-    "date": "2026-10-21",
-    "tag": "ep-2026-10-21",
-    "title": "China tightens technology and drone export controls",
-    "summary": "A quiet day for screening decisions: China proposes new technology export restrictions and widens its drone component controls, with deadlines in November.",
-    "file": "fdi-daily-2026-10-21.mp3",
-    "bytes": 1011456,
-    "duration_s": 169,
-    "published": "Wed, 21 Oct 2026 08:52:13 +0000",
-    "items": [
-      {
-        "headline": "China proposes adding 40 AI, biomedicine and solar technologies to export catalogue; registration in force",
-        "jurisdiction": "CN",
-        "outcome": null,
-        "sources": [
-          "https://www.geopolitechs.org/p/china-imposes-temporary-export-registration"
-        ]
-      },
-      {
-        "headline": "China extends drone component export controls to all destinations from 18 November",
-        "jurisdiction": "CN",
-        "outcome": null,
-        "sources": [
-          "https://www.techtimes.com/articles/329240/20261020/china-sets-48-volt-threshold-drone-motor-licenses-global-buyers-face-nov-18-deadline.htm"
-        ]
-      },
-      {
-        "headline": "China's rare earth export control suspension expires 10 November",
-        "jurisdiction": "CN",
-        "outcome": null,
-        "sources": [
-          "https://www.cirs-group.com/en/chemicals/china-temporarily-suspends-export-controls-on-key-raw-materials-including-rare-earths-lithium-batteries-and-diamond"
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2026-10-23",
-    "tag": "ep-2026-10-23",
-    "title": "Treasury proposes COINS Act outbound investment rules",
-    "summary": "A quiet day for screening decisions: Treasury publishes its proposed rule implementing the COINS Act, and the UK's Investment Security Unit clears OCS's takeover of Mitie.",
-    "file": "fdi-daily-2026-10-23.mp3",
-    "bytes": 1033776,
-    "duration_s": 172,
-    "published": "Fri, 23 Oct 2026 05:54:45 +0000",
-    "items": [
-      {
-        "headline": "Treasury issues proposed rule implementing the COINS Act outbound investment regime",
-        "jurisdiction": "US",
-        "outcome": null,
-        "sources": [
-          "https://home.treasury.gov/news/press-releases/sb0667/",
-          "https://thebusinessjournal.com/treasury-foreign-tech-investment-restrictions-2026",
-          "https://home.treasury.gov/system/files/206/Fact-Sheet-FAQs-COINS-Act-NPRM.pdf"
-        ]
-      },
-      {
-        "headline": "UK Investment Security Unit clears OCS takeover of Mitie",
-        "jurisdiction": "UK",
-        "outcome": null,
-        "sources": [
-          "https://www.marketscreener.com/news/mitie-takeover-by-ocs-clears-uk-national-security-hurdle-ce785cdedb8df325"
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-10-26",
     "tag": "ep-2026-10-26",
     "title": "Beijing answers Treasury's outbound investment rule",
@@ -894,6 +828,66 @@
         "outcome": null,
         "sources": [
           "https://www.jonesday.com/en/insights/2026/11/dutch-fdi-screening-expands-to-six-new-technologies-on-january-1-2027"
+        ]
+      },
+      {
+        "headline": "Watch: Polish TVN decision due about 12 January",
+        "jurisdiction": "PL",
+        "outcome": null,
+        "sources": [
+          "https://en.yenisafak.com/world/poland-reviews-tvn-takeover-by-trump-linked-media-giant-skydance-3724484"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "tag": "ep-2026-11-24",
+    "title": "Hungary plans to narrow FDI screening; a quiet day for decisions",
+    "summary": "A short episode: Hungary's draft bill to shrink its FDI regime from the 1st of January 2027, plus a watch list of the coming deadlines.",
+    "file": "fdi-daily-2026-11-24.mp3",
+    "bytes": 984096,
+    "duration_s": 164,
+    "published": "Tue, 24 Nov 2026 16:00:31 +0000",
+    "items": [
+      {
+        "headline": "Hungary drafts a narrower FDI screening regime from 1 January 2027",
+        "jurisdiction": "HU",
+        "outcome": null,
+        "sources": [
+          "https://www.bakermckenzie.com/en/insight/publications/2026/11/hungary-government-proposes-narrower-fdi-screening"
+        ]
+      },
+      {
+        "headline": "Watch: COINS Act proposed rule comments close 7 December",
+        "jurisdiction": "US",
+        "outcome": null,
+        "sources": [
+          "https://home.treasury.gov/system/files/206/Fact-Sheet-FAQs-COINS-Act-NPRM.pdf"
+        ]
+      },
+      {
+        "headline": "Watch: EU projects of Union interest delegated regulation in force 7 December",
+        "jurisdiction": "EU",
+        "outcome": null,
+        "sources": [
+          "https://eulawlive.com/oj-commission-delegated-regulation-expanding-list-of-projects-covered-by-eu-foreign-investment-screening-cooperation/"
+        ]
+      },
+      {
+        "headline": "Watch: Vifo Act extension to six technologies from 1 January 2027",
+        "jurisdiction": "NL",
+        "outcome": null,
+        "sources": [
+          "https://www.jonesday.com/en/insights/2026/11/dutch-fdi-screening-expands-to-six-new-technologies-on-january-1-2027"
+        ]
+      },
+      {
+        "headline": "Watch: BIS Affiliates Rule and China rare earth suspensions expire 10 January 2027",
+        "jurisdiction": "US",
+        "outcome": null,
+        "sources": [
+          "https://www.nixonpeabody.com/insights/alerts/2026/11/06/bis-formally-suspends-the-affiliates-rule-until-january-10-2027"
         ]
       },
       {
