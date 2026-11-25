@@ -899,5 +899,74 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-11-25",
+    "tag": "ep-2026-11-25",
+    "title": "UK final order on Hytera-linked radio technology rights; watch list",
+    "summary": "The UK Cabinet Office publishes a National Security and Investment Act final order covering Simcomm and Hytera's acquisition of rights from TTG Global Solutions, plus the dates to watch.",
+    "file": "fdi-daily-2026-11-25.mp3",
+    "bytes": 727200,
+    "duration_s": 121,
+    "published": "Wed, 25 Nov 2026 18:41:43 +0000",
+    "items": [
+      {
+        "headline": "UK final order on Simcomm and Hytera UK acquisition of TTG Global Solutions DMR rights",
+        "jurisdiction": "UK",
+        "outcome": "conditions",
+        "sources": [
+          "https://www.gov.uk/government/collections/notices-of-final-orders-under-the-national-security-and-investment-act-2021",
+          "https://www.gov.uk/government/publications/acquisition-by-simcomm-science-technology-co-limited-and-hytera-communications-uk-corporation-limited-of-rights-related-to-ttg-global-solutions-limite"
+        ]
+      },
+      {
+        "headline": "Watch: COINS Act proposed rule comments close 7 December; final rules due 13 March 2027",
+        "jurisdiction": "US",
+        "outcome": null,
+        "sources": [
+          "https://home.treasury.gov/system/files/206/Fact-Sheet-FAQs-COINS-Act-NPRM.pdf"
+        ]
+      },
+      {
+        "headline": "Watch: EU projects of Union interest delegated regulation in force 7 December",
+        "jurisdiction": "EU",
+        "outcome": null,
+        "sources": [
+          "https://eulawlive.com/oj-commission-delegated-regulation-expanding-list-of-projects-covered-by-eu-foreign-investment-screening-cooperation/"
+        ]
+      },
+      {
+        "headline": "Watch: Vifo Act extension to six technologies from 1 January 2027",
+        "jurisdiction": "NL",
+        "outcome": null,
+        "sources": [
+          "https://www.jonesday.com/en/insights/2026/11/dutch-fdi-screening-expands-to-six-new-technologies-on-january-1-2027"
+        ]
+      },
+      {
+        "headline": "Watch: Japan's amended FEFTA rules take effect 4 January 2027",
+        "jurisdiction": "JP",
+        "outcome": null,
+        "sources": [
+          "https://www.mof.go.jp/english/policy/international_policy/fdi/News_and_Communications/20260908210358.html"
+        ]
+      },
+      {
+        "headline": "Watch: BIS Affiliates Rule and China rare earth suspensions expire 10 January 2027",
+        "jurisdiction": "US",
+        "outcome": null,
+        "sources": [
+          "https://www.nixonpeabody.com/insights/alerts/2026/11/06/bis-formally-suspends-the-affiliates-rule-until-january-10-2027"
+        ]
+      },
+      {
+        "headline": "Watch: Polish TVN decision due around 12 January",
+        "jurisdiction": "PL",
+        "outcome": null,
+        "sources": [
+          "https://en.yenisafak.com/world/poland-reviews-tvn-takeover-by-trump-linked-media-giant-skydance-3724484"
+        ]
+      }
+    ]
   }
 ]

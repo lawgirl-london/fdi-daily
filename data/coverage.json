@@ -1561,5 +1561,92 @@
       "https://en.yenisafak.com/world/poland-reviews-tvn-takeover-by-trump-linked-media-giant-skydance-3724484"
     ],
     "deal": null
+  },
+  {
+    "date": "2026-11-25",
+    "story_key": "uk-nsia-final-order-simcomm-hytera-ttg-rights",
+    "headline": "UK final order on Simcomm and Hytera UK acquisition of TTG Global Solutions DMR rights",
+    "jurisdiction": "UK",
+    "what_was_said": "On 23 November 2026 the Cabinet Office published a notice of final order under the NSI Act on the acquisition by Simcomm Science and Technology Co., Limited and Hytera Communications UK Corporation Limited of rights to TTG Global Solutions Limited's IP and know-how for digital mobile radio technology. Requirements and grounds not stated on the page; order text not seen.",
+    "sources": [
+      "https://www.gov.uk/government/collections/notices-of-final-orders-under-the-national-security-and-investment-act-2021",
+      "https://www.gov.uk/government/publications/acquisition-by-simcomm-science-technology-co-limited-and-hytera-communications-uk-corporation-limited-of-rights-related-to-ttg-global-solutions-limite"
+    ],
+    "deal": {
+      "acquirer": "Simcomm Science & Technology Co., Limited and Hytera Communications (UK) Corporation Limited",
+      "acquirer_country": "CN",
+      "target": "TTG Global Solutions Limited (IP and know-how rights, digital mobile radio technology)",
+      "target_country": "UK",
+      "sector": "Communications / digital mobile radio technology",
+      "authority": "Cabinet Office (Secretary of State, NSI Act 2021)",
+      "outcome": "conditions",
+      "detail": "Final order made under the NSI Act, published 23 Nov 2026; content of the order and grounds not disclosed on the notice page and order text not seen, so whether it prohibits or conditions is unconfirmed. Acquirer country inferred from Hytera, not stated in the notice."
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "story_key": "us-coins-act-treasury-rules-deadline-2027-03-13",
+    "headline": "Watch: COINS Act proposed rule comments close 7 December; final rules due 13 March 2027",
+    "jurisdiction": "US",
+    "what_was_said": "Comments on Treasury's COINS Act proposed rule close 7 December; final rules due by 13 March 2027.",
+    "sources": [
+      "https://home.treasury.gov/system/files/206/Fact-Sheet-FAQs-COINS-Act-NPRM.pdf"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-25",
+    "story_key": "eu-projects-of-union-interest-delegated-regulation",
+    "headline": "Watch: EU projects of Union interest delegated regulation in force 7 December",
+    "jurisdiction": "EU",
+    "what_was_said": "The delegated regulation updating the list of projects of Union interest enters into force 7 December.",
+    "sources": [
+      "https://eulawlive.com/oj-commission-delegated-regulation-expanding-list-of-projects-covered-by-eu-foreign-investment-screening-cooperation/"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-25",
+    "story_key": "nl-vifo-six-technologies-2027-01-01",
+    "headline": "Watch: Vifo Act extension to six technologies from 1 January 2027",
+    "jurisdiction": "NL",
+    "what_was_said": "Mandatory Vifo Act screening extends to six further technologies from 1 January 2027.",
+    "sources": [
+      "https://www.jonesday.com/en/insights/2026/11/dutch-fdi-screening-expands-to-six-new-technologies-on-january-1-2027"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-25",
+    "story_key": "jp-fefta-amendments-implementing-rules",
+    "headline": "Watch: Japan's amended FEFTA rules take effect 4 January 2027",
+    "jurisdiction": "JP",
+    "what_was_said": "Japan's amended FEFTA rules take effect on 4 January 2027.",
+    "sources": [
+      "https://www.mof.go.jp/english/policy/international_policy/fdi/News_and_Communications/20260908210358.html"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-25",
+    "story_key": "us-bis-affiliates-rule-effective-2026-11-10",
+    "headline": "Watch: BIS Affiliates Rule and China rare earth suspensions expire 10 January 2027",
+    "jurisdiction": "US",
+    "what_was_said": "Both suspensions are due to expire on 10 January 2027.",
+    "sources": [
+      "https://www.nixonpeabody.com/insights/alerts/2026/11/06/bis-formally-suspends-the-affiliates-rule-until-january-10-2027"
+    ],
+    "deal": null
+  },
+  {
+    "date": "2026-11-25",
+    "story_key": "pl-tvn-skydance-investment-control-review",
+    "headline": "Watch: Polish TVN decision due around 12 January",
+    "jurisdiction": "PL",
+    "what_was_said": "The 90-day review decision on TVN is due around 12 January.",
+    "sources": [
+      "https://en.yenisafak.com/world/poland-reviews-tvn-takeover-by-trump-linked-media-giant-skydance-3724484"
+    ],
+    "deal": null
   }
 ]

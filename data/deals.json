@@ -1,5 +1,24 @@
 [
   {
+    "story_key": "uk-nsia-final-order-simcomm-hytera-ttg-rights",
+    "first_reported": "2026-11-25",
+    "updated": "2026-11-25",
+    "jurisdiction": "UK",
+    "headline": "UK final order on Simcomm and Hytera UK acquisition of TTG Global Solutions DMR rights",
+    "acquirer": "Simcomm Science & Technology Co., Limited and Hytera Communications (UK) Corporation Limited",
+    "acquirer_country": "CN",
+    "target": "TTG Global Solutions Limited (IP and know-how rights, digital mobile radio technology)",
+    "target_country": "UK",
+    "sector": "Communications / digital mobile radio technology",
+    "authority": "Cabinet Office (Secretary of State, NSI Act 2021)",
+    "outcome": "conditions",
+    "detail": "Final order made under the NSI Act, published 23 Nov 2026; content of the order and grounds not disclosed on the notice page and order text not seen, so whether it prohibits or conditions is unconfirmed. Acquirer country inferred from Hytera, not stated in the notice.",
+    "sources": [
+      "https://www.gov.uk/government/collections/notices-of-final-orders-under-the-national-security-and-investment-act-2021",
+      "https://www.gov.uk/government/publications/acquisition-by-simcomm-science-technology-co-limited-and-hytera-communications-uk-corporation-limited-of-rights-related-to-ttg-global-solutions-limite"
+    ]
+  },
+  {
     "story_key": "eu-fsr-jd-com-ceconomy",
     "first_reported": "2026-11-04",
     "updated": "2026-11-13",
